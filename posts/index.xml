@@ -1,35 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Posts on Archivo Editorial</title>
-    <link>https://archivo.rober/posts/</link>
-    <description>Recent content in Posts on Archivo Editorial</description>
-    <generator>Hugo -- 0.152.1</generator>
-    <language>es</language>
-    <lastBuildDate>Thu, 23 Oct 2025 01:05:10 +0200</lastBuildDate>
-    <atom:link href="https://archivo.rober/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Prueba</title>
-      <link>https://archivo.rober/posts/prueba/</link>
-      <pubDate>Thu, 23 Oct 2025 01:05:10 +0200</pubDate>
-      <guid>https://archivo.rober/posts/prueba/</guid>
-      <description>&lt;hr&gt;
-&lt;h2 id=&#34;draft-false&#34;&gt;title: &amp;ldquo;Prueba&amp;rdquo;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Archivo Editorial</title><link>https://rgartneraudios.github.io/archivo-editorial-site/posts/</link><description>Recent content in Posts on Archivo Editorial</description><generator>Hugo -- 0.152.1</generator><language>es</language><lastBuildDate>Thu, 23 Oct 2025 01:05:10 +0200</lastBuildDate><atom:link href="https://rgartneraudios.github.io/archivo-editorial-site/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Prueba</title><link>https://rgartneraudios.github.io/archivo-editorial-site/posts/prueba/</link><pubDate>Thu, 23 Oct 2025 01:05:10 +0200</pubDate><guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/prueba/</guid><description>&lt;hr&gt;
+&lt;h2 id="draft-false"&gt;title: &amp;ldquo;Prueba&amp;rdquo;
 date: 2025-10-23
 draft: false&lt;/h2&gt;
-&lt;p&gt;Este es un post de prueba.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Silencio editorial</title>
-      <link>https://archivo.rober/posts/silencio-editorial/</link>
-      <pubDate>Thu, 23 Oct 2025 01:05:10 +0200</pubDate>
-      <guid>https://archivo.rober/posts/silencio-editorial/</guid>
-      <description>&lt;p&gt;El silencio no es ausencia, sino arquitectura.&lt;br&gt;
+&lt;p&gt;Este es un post de prueba.&lt;/p&gt;</description></item><item><title>Silencio editorial</title><link>https://rgartneraudios.github.io/archivo-editorial-site/posts/silencio-editorial/</link><pubDate>Thu, 23 Oct 2025 01:05:10 +0200</pubDate><guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/silencio-editorial/</guid><description>&lt;p&gt;El silencio no es ausencia, sino arquitectura.&lt;br&gt;
 Este archivo inaugura una lógica simbólica que resonará más allá del ruido.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Micrófono simbólico&#34; loading=&#34;lazy&#34; src=&#34;https://archivo.rober/images/microsimbolico.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/tu-episodio&#34;&gt;Escuchar en Spotify&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://youtube.com/tu-video&#34;&gt;Ver en YouTube&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://mastodon.social/@rober/123456&#34;&gt;Publicación en Mastodon&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;&lt;img alt="Micrófono simbólico" loading="lazy" src="https://rgartneraudios.github.io/archivo-editorial-site/images/microsimbolico.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://open.spotify.com/tu-episodio"&gt;Escuchar en Spotify&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://youtube.com/tu-video"&gt;Ver en YouTube&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://mastodon.social/@rober/123456"&gt;Publicación en Mastodon&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
