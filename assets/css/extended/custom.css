@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&display=swap');
+
+body, .post-content {
+    font-family: 'Lora', Georgia, serif;
+}
+
+/* Forzar alineación exacta para TODOS los posts */
+.main .post-entry {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    max-width: 800px !important;
+    width: 100% !important;
+}
+
+/* Que la imagen no afecte la alineación del contenedor */
+.post-entry .entry-cover {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.post-entry img {
+    max-width: 100%;
+    height: auto;
+}
