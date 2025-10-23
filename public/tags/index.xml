@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Archivo Editorial</description>
     <generator>Hugo -- 0.152.1</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 23 Oct 2025 01:05:10 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 22:52:36 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/archivo-editorial-site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algoritmos</title>
+      <link>http://localhost:1313/archivo-editorial-site/tags/algoritmos/</link>
+      <pubDate>Thu, 23 Oct 2025 22:52:36 +0200</pubDate>
+      <guid>http://localhost:1313/archivo-editorial-site/tags/algoritmos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contenido</title>
+      <link>http://localhost:1313/archivo-editorial-site/tags/contenido/</link>
+      <pubDate>Thu, 23 Oct 2025 22:52:36 +0200</pubDate>
+      <guid>http://localhost:1313/archivo-editorial-site/tags/contenido/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Youtube</title>
+      <link>http://localhost:1313/archivo-editorial-site/tags/youtube/</link>
+      <pubDate>Thu, 23 Oct 2025 22:52:36 +0200</pubDate>
+      <guid>http://localhost:1313/archivo-editorial-site/tags/youtube/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Archivo</title>
       <link>http://localhost:1313/archivo-editorial-site/tags/archivo/</link>

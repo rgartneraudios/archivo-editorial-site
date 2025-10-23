@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/algoritmos/</loc>
+    <lastmod>2025-10-23T22:52:36+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/</loc>
+    <lastmod>2025-10-23T22:52:36+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/contenido/</loc>
+    <lastmod>2025-10-23T22:52:36+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brocoli-entre-donuts/</loc>
+    <lastmod>2025-10-23T22:52:36+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/</loc>
+    <lastmod>2025-10-23T22:52:36+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/</loc>
+    <lastmod>2025-10-23T22:52:36+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/youtube/</loc>
+    <lastmod>2025-10-23T22:52:36+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/archivo-editorial-site/tags/archivo/</loc>
     <lastmod>2025-10-23T01:05:10+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archivo-editorial-site/</loc>
-    <lastmod>2025-10-23T01:05:10+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/archivo-editorial-site/tags/ensayo/</loc>
-    <lastmod>2025-10-23T01:05:10+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archivo-editorial-site/posts/</loc>
     <lastmod>2025-10-23T01:05:10+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archivo-editorial-site/posts/prueba/</loc>
@@ -21,9 +36,6 @@
     <lastmod>2025-10-23T01:05:10+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archivo-editorial-site/tags/simb%C3%B3lico/</loc>
-    <lastmod>2025-10-23T01:05:10+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archivo-editorial-site/tags/</loc>
     <lastmod>2025-10-23T01:05:10+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archivo-editorial-site/categories/</loc>

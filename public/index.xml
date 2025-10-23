@@ -6,8 +6,30 @@
     <description>Recent content on Archivo Editorial</description>
     <generator>Hugo -- 0.152.1</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 23 Oct 2025 01:05:10 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 22:52:36 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/archivo-editorial-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El brócoli entre los donuts: La incomodidad del contenido serio en YouTube</title>
+      <link>http://localhost:1313/archivo-editorial-site/posts/brocoli-entre-donuts/</link>
+      <pubDate>Thu, 23 Oct 2025 22:52:36 +0200</pubDate>
+      <guid>http://localhost:1313/archivo-editorial-site/posts/brocoli-entre-donuts/</guid>
+      <description>&lt;div class=&#34;post-header-author&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;div class=&#34;post-header-author-info&#34;&gt;
+        &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
+        &lt;span class=&#34;post-header-date&#34;&gt;23 de October, 2025&lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&#34;margin: 1.5rem 0;&#34;&gt;
+&lt;p&gt;Para quienes hacemos contenido que invita a reflexionar, hay algo incómodo que reconocer: competimos en un espacio diseñado para otra cosa.&lt;/p&gt;
+&lt;p&gt;No es que YouTube sea malo. Es una de las mejores plataformas para crear. El problema es más sutil: nuestro contenido debe compartir el mismo feed con escotes, minifaldas, caras de asombro en thumbnails y clickbaits vacíos.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/archivo-editorial-site/images/familia-en-el-salon-mirando-tv-abuelos-y-nietos.jpg&#34;
+         alt=&#34;Familia mirando TV&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Es como poner un brócoli en una mesa llena de pasteles y donuts. Y lo peor: si alguien prueba un pastel, es casi imposible que después escoja el brócoli. Ya está en otra vibra.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Prueba</title>
       <link>http://localhost:1313/archivo-editorial-site/posts/prueba/</link>
