@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Archivo Editorial</title>
+    <link>http://localhost:1313/archivo-editorial-site/</link>
+    <description>Recent content on Archivo Editorial</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 23 Oct 2025 01:05:10 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/archivo-editorial-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prueba</title>
+      <link>http://localhost:1313/archivo-editorial-site/posts/prueba/</link>
+      <pubDate>Thu, 23 Oct 2025 01:05:10 +0200</pubDate>
+      <guid>http://localhost:1313/archivo-editorial-site/posts/prueba/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;draft-false&#34;&gt;title: &amp;ldquo;Prueba&amp;rdquo;
+date: 2025-10-23
+draft: false&lt;/h2&gt;
+&lt;p&gt;Este es un post de prueba.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Silencio editorial</title>
+      <link>http://localhost:1313/archivo-editorial-site/posts/silencio-editorial/</link>
+      <pubDate>Thu, 23 Oct 2025 01:05:10 +0200</pubDate>
+      <guid>http://localhost:1313/archivo-editorial-site/posts/silencio-editorial/</guid>
+      <description>&lt;p&gt;El silencio no es ausencia, sino arquitectura.&lt;br&gt;
+Este archivo inaugura una lógica simbólica que resonará más allá del ruido.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Micrófono simbólico&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/archivo-editorial-site/images/microsimbolico.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/tu-episodio&#34;&gt;Escuchar en Spotify&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://youtube.com/tu-video&#34;&gt;Ver en YouTube&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://mastodon.social/@rober/123456&#34;&gt;Publicación en Mastodon&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

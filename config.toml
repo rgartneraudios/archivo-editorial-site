@@ -1,0 +1,22 @@
+baseURL = "https://rgartneraudios.github.io/archivo-editorial-site/"  # Puedes cambiarlo cuando tengas dominio
+languageCode = 'es'
+title = 'Archivo Editorial'
+theme = 'PaperMod'
+
+defaultContentLanguage = 'es'
+
+[languages]
+[languages.es]
+  languageName = 'Español'
+  weight = 1
+
+[params]
+  env = 'production'
+  defaultTheme = 'dark'           # Modo oscuro por defecto
+  disableThemeToggle = false      # Permite cambiar entre claro/oscuro
+  ShowReadingTime = true          # Muestra tiempo estimado de lectura
+  ShowShareButtons = true         # Activa botones para compartir
+  ShowPostNavLinks = true         # Navegación entre posts
+  mainSections = ["posts"]
+  
+
