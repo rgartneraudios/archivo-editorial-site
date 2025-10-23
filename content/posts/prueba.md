@@ -1,13 +1,9 @@
 +++
-date = '2025-10-23T01:05:10+02:00'
+title = "Prueba"
+date = "2025-10-23T01:05:10+02:00"
 draft = false
-title = 'Prueba'
 +++
 
----
-title: "Prueba"
-date: 2025-10-23
-draft: false
----
+{{< author-header >}}
 
 Este es un post de prueba.

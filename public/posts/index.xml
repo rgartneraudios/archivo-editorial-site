@@ -13,10 +13,14 @@
       <link>http://localhost:1313/archivo-editorial-site/posts/prueba/</link>
       <pubDate>Thu, 23 Oct 2025 01:05:10 +0200</pubDate>
       <guid>http://localhost:1313/archivo-editorial-site/posts/prueba/</guid>
-      <description>&lt;hr&gt;
-&lt;h2 id=&#34;draft-false&#34;&gt;title: &amp;ldquo;Prueba&amp;rdquo;
-date: 2025-10-23
-draft: false&lt;/h2&gt;
+      <description>&lt;div class=&#34;post-header-author&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;div class=&#34;post-header-author-info&#34;&gt;
+        &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
+        &lt;span class=&#34;post-header-date&#34;&gt;23 de October, 2025&lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&#34;margin: 1.5rem 0;&#34;&gt;
 &lt;p&gt;Este es un post de prueba.&lt;/p&gt;</description>
     </item>
     <item>
@@ -24,9 +28,21 @@ draft: false&lt;/h2&gt;
       <link>http://localhost:1313/archivo-editorial-site/posts/silencio-editorial/</link>
       <pubDate>Thu, 23 Oct 2025 01:05:10 +0200</pubDate>
       <guid>http://localhost:1313/archivo-editorial-site/posts/silencio-editorial/</guid>
-      <description>&lt;p&gt;El silencio no es ausencia, sino arquitectura.&lt;br&gt;
+      <description>&lt;div class=&#34;post-header-author&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;div class=&#34;post-header-author-info&#34;&gt;
+        &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
+        &lt;span class=&#34;post-header-date&#34;&gt;23 de October, 2025&lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&#34;margin: 1.5rem 0;&#34;&gt;
+&lt;p&gt;El silencio no es ausencia, sino arquitectura.&lt;br&gt;
 Este archivo inaugura una lógica simbólica que resonará más allá del ruido.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Micrófono simbólico&#34; loading=&#34;lazy&#34; src=&#34;images/microsimbolico.jpg&#34;&gt;&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/archivo-editorial-site/images/microsimbolico.jpg&#34;
+         alt=&#34;Micrófono simbólico&#34;/&gt; 
+&lt;/figure&gt;
+
 &lt;p&gt;&lt;a href=&#34;https://open.spotify.com/tu-episodio&#34;&gt;Escuchar en Spotify&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://youtube.com/tu-video&#34;&gt;Ver en YouTube&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://mastodon.social/@rober/123456&#34;&gt;Publicación en Mastodon&lt;/a&gt;&lt;/p&gt;</description>

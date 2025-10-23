@@ -5,6 +5,8 @@ draft = false
 tags = ["ensayo", "archivo", "simbólico"]
 +++
 
+{{< author-header >}}
+
 El silencio no es ausencia, sino arquitectura.  
 Este archivo inaugura una lógica simbólica que resonará más allá del ruido.
 
