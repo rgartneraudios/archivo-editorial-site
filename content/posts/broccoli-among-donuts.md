@@ -1,6 +1,6 @@
 +++
 date = '2025-10-24T00:55:19+02:00'
-draft = true
+draft = false
 title = 'Broccoli Among Donuts: The Discomfort of Serious Content on YouTube'
 tags = ["youtube", "algorithms", "content"]
 +++
