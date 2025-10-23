@@ -8,7 +8,7 @@ tags = ["ensayo", "archivo", "simbólico"]
 El silencio no es ausencia, sino arquitectura.  
 Este archivo inaugura una lógica simbólica que resonará más allá del ruido.
 
-![microfono simbolico](/images/microsimbolico.jpg)
+{{< figure src="/archivo-editorial-site/images/microsimbolico.jpg" alt="Micrófono simbólico" >}}
 
 [Escuchar en Spotify](https://open.spotify.com/tu-episodio)  
 [Ver en YouTube](https://youtube.com/tu-video)  
