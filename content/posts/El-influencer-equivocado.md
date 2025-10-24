@@ -11,9 +11,9 @@ Las marcas siguen cometiendo el mismo error: contratan a un influencer con millo
 
 ¿El problema? Confunden dos tipos de influencia completamente diferentes.
 
-Influencia aspiracional: La audiencia quiere vivir como ese creador. Compran porque creen que ese producto los acercará a esa vida idealizada.
+**Influencia aspiracional:** La audiencia quiere vivir como ese creador. Compran porque creen que ese producto los acercará a esa vida idealizada.
 
-Influencia de atracción personal: La audiencia consume por el atractivo o carisma del creador en sí. Alto engagement, retención visual excelente. Pero aquí hay un giro inesperado.
+**Influencia de atracción personal:** La audiencia consume por el atractivo o carisma del creador en sí. Alto engagement, retención visual excelente. Pero aquí hay un giro inesperado.
 
 Sí hay compras. Pero no del tipo que las marcas esperan.
 
@@ -25,17 +25,19 @@ El desastre ocurre cuando una marca ofrece un producto incompatible. Si vendes u
 
 Las marcas concluyen: "Los influencers ya no funcionan." Pero el culpable no es el creador. Es que pagaron por un tipo de influencia esperando otro resultado.
 
-La pregunta clave antes de contratar: ¿Tu audiencia te sigue por lo que haces, por quién eres, o por lo que representas sexualmente?
+**La pregunta clave antes de contratar:** ¿Tu audiencia te sigue por lo que haces, por quién eres, o por lo que representas sexualmente?
+
 La respuesta cambia todo.
 
-Ensayo de RGartner
+---
+
+*Ensayo de RGartner*
 
 {{< youtube dJRSC9xo38Y >}}
 
 ---
 
-🎧 **Escúchalo también en otras plataformas:**
+### 🎧 Escúchalo también en otras plataformas
 
-- [Apple Podcasts]
 - [Spotify](https://open.spotify.com/episode/7g9bFLzADkG5oWqGo4ECue)  
-
+- Apple Podcasts
