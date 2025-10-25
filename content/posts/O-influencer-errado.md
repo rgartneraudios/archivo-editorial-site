@@ -40,4 +40,4 @@ A resposta muda tudo.
 ### 🎧 Ouça também em outras plataformas
 
 - [Spotify](https://open.spotify.com/episode/5PvNj9CpeIM4UTXj1BOnIZ)  
-- Apple Podcasts
+- [Apple Podcasts](https://podcasts.apple.com/es/podcast/o-influenciador-errado-por-que-as-campanhas-publicit%C3%A1rias/id1847077920?i=1000733397213)

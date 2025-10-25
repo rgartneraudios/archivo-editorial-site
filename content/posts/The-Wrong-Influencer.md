@@ -40,5 +40,5 @@ The answer changes everything.
 ### 🎧 Listen on other platforms
 
 - [Spotify](https://open.spotify.com/episode/3AbucOXEJBqCsKHlKBTBwC)  
-- Apple Podcasts
+- [Apple Podcasts](https://podcasts.apple.com/es/podcast/the-wrong-influencer-why-advertising-campaigns-fail/id1847078159?i=1000733385261)
 

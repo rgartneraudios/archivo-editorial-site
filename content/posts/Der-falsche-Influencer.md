@@ -40,4 +40,4 @@ Die Antwort ändert alles.
 ### 🎧 Höre es auch auf anderen Plattformen
 
 - [Spotify](https://open.spotify.com/episode/5lPfuzID3WqagLYWzfWefn)  
-- Apple Podcasts
+- [Apple Podcasts](https://podcasts.apple.com/es/podcast/der-falsche-influencer-warum-werbekampagnen-scheitern/id1847078243?i=1000733385691)

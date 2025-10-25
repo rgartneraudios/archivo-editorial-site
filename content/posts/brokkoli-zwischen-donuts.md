@@ -26,5 +26,5 @@ RGartner
 🎧 **Hören Sie es auch auf anderen Plattformen:**
 
 - [Spotify](https://open.spotify.com/episode/40XDNjlA17WsqC4iXpQiEF)  
-
+- [Apple Podcasts](https://podcasts.apple.com/es/podcast/brokkoli-zwischen-den-donuts-warum-sich-seri%C3%B6se-inhalte/id1847078243?i=1000732729620)
 

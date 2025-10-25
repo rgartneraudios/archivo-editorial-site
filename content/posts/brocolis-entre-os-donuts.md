@@ -36,3 +36,5 @@ Ensaio RGartner
 🎧 **Escúchalo también en otras plataformas:**
 
 - [Spotify](https://open.spotify.com/episode/2i7hxu1WzBlRUSwJuNTprt) 
+
+- [Apple Podcasts](https://podcasts.apple.com/es/podcast/br%C3%B3colis-entre-os-donuts-por-que-conte%C3%BAdo-s%C3%A9rio-parece/id1847077920?i=1000732719669)

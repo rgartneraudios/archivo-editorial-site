@@ -40,4 +40,4 @@ La respuesta cambia todo.
 ### 🎧 Escúchalo también en otras plataformas
 
 - [Spotify](https://open.spotify.com/episode/7g9bFLzADkG5oWqGo4ECue)  
-- Apple Podcasts
+- [Apple Podcasts](https://podcasts.apple.com/es/podcast/el-influencer-equivocado-por-qu%C3%A9-fracasan-las/id1847077453?i=1000733385809)

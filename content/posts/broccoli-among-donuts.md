@@ -36,3 +36,4 @@ Essay by RGartner
 🎧 **Escúchalo también en otras plataformas:**
 
 - [Spotify](https://open.spotify.com/episode/5jBmGnmKayzIeFxoNhbCYd) 
+- [Apple Podcasts](https://podcasts.apple.com/es/podcast/broccoli-among-the-donuts-why-serious-content-feels/id1847078159?i=1000732720688)
