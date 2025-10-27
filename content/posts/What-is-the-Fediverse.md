@@ -9,7 +9,7 @@ tags = ["youtube", "algorithms", "content"]
 
 ---
 
-{{< youtube dJRSC9xo38Y >}}
+{{< youtube wgN_gh8dX7E >}}
 
 ---
 
