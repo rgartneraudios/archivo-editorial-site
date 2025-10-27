@@ -15,14 +15,14 @@ tags = ["youtube", "algorithms", "content"]
 
 ### 🎧 Listen on other platforms
 
-- [Spotify]
-- [Apple Podcasts]
+- [Spotify] Search for RGartner Audios, Español, English, Português, Français, Italiano, Hindi (हिंदी)
+- [Apple Podcasts] Search for RGartner Audios, Español, English, Português, Français, Italiano, Hindi (हिंदी)
 
-English 
+# English 
 
-'What is the Fediverse, Mastodon, and Decentralized Applications?
+##  'What is the Fediverse, Mastodon, and Decentralized Applications?
 
-Servers
+###  Servers
 
 To understand the Fediverse, we first need to understand what a server is. Your server is much like a router; it has inputs and outputs to perform tasks. Your computer could be a server if you configure it a certain way. Imagine you have videos to share and want to do it from your home. If your computer is now a server, you could share those videos from your house. You would need to create a website with another computer using software like WordPress and connect it to your computer-server. With this system, the general public would visit that website, see thumbnails of your videos, click on one, and a signal would be sent to your computer-server. It receives this request as an input and, as an output, sends the video signal to the web for the public to see. Depending on bandwidth, this can take milliseconds, thanks to technological advances like 5G. Broadly speaking, this is a server: as its name implies, it provides a service of input and output for content like videos, audio, and all types of data.
 
@@ -30,7 +30,7 @@ This is an example of a personal server, which logically would need to be on 24/
 
 There are much larger companies that offer more power and services, such as national telephone companies or international giants. Today, servers are even set up solely to handle the demands of artificial intelligence services.
 
-The Fediverse
+### The Fediverse
 
 Now that we have a general idea of how a server works, let's talk about the Fediverse.
 
@@ -44,7 +44,7 @@ And this isn't science fiction: in the Fediverse, this ALREADY works. You can fo
 
 Within the Fediverse, it’s not just Mastodon with its ability to write posts, upload short audio clips, or share links like on Twitter. The Fediverse also has dedicated applications for videos, podcasts, etc., and they all share the unique feature of being able to federate with each other because they use the ActivityPub protocol. There's PeerTube for videos and Castopod for uploading podcasts.
 
-The Future of the Fediverse
+### The Future of the Fediverse
 
 The Fediverse was supposedly built to combat the monopolies of large companies like Google, Microsoft, and Apple, which use our data for many things. However, there are many challenges ahead, and I have identified a couple of problems.
 
@@ -59,20 +59,21 @@ It's probably because we receive so much information, in such quantity, and beli
 Let's reverse the context. We spend a lot of time offline and away from everything. Let's imagine we're in a world completely alien to our society, let's imagine we're on the planet Mars. And it turns out we receive a message, or a Toot, as they call them on Mastodon. Imagine how valuable that Toot will be to us. Whether it's a video, an audio, or a simple phrase, it makes you feel like you're not alone and that there's someone on the other side. We would consider it much more valuable, precisely because that Toot arrived at a time of loneliness and need, and therefore, we needed it. That's why it's important to position ourselves from this perspective to value everything that arrives, even if the intention on the other side is different.
 
 Finally, an uncomfortable question arises: If the Fediverse reproduces the same power dynamics it criticizes, isn't it simply digital feudalism with better marketing? Or is there still hope for decentralization to fulfill its original promise?
+
 RGartner Essay
 
-Deutsch (Alemán)
+# Deutsch (Alemán)
 
-Was sind das Fediverse, Mastodon und dezentrale Anwendungen?
+##  Was sind das Fediverse, Mastodon und dezentrale Anwendungen?
 
-Server
+### Server
 
 Um das Fediverse zu verstehen, müssen wir zuerst verstehen, was ein Server ist. Ihr Server ist so etwas wie ein Router; er hat Ein- und Ausgänge, um Aufgaben auszuführen. Ihr Computer könnte ein Server sein, wenn Sie ihn entsprechend konfigurieren. Stellen Sie sich vor, Sie haben Videos, die Sie von zu Hause aus teilen möchten. Wenn Ihr Computer nun ein Server ist, könnten Sie diese Videos von dort aus teilen. Sie müssten eine Website mit einem anderen Computer über eine Software wie WordPress erstellen und sie mit Ihrem Computer-Server verbinden. Mit diesem System würde die Öffentlichkeit diese Website besuchen, Miniaturansichten Ihrer Videos sehen, klicken, und von dort würde das Signal an Ihren Computer-Server gesendet. Dieser empfängt die Anfrage als Eingang und sendet als Ausgang das Videosignal an das Web, damit die Öffentlichkeit es sehen kann. Dies kann dank technologischer Fortschritte wie 5G Millisekunden dauern. Im Großen und Ganzen ist das ein Server: Er bietet einen Dienst für die Ein- und Ausgabe von Inhalten wie Videos, Audiodaten und allen Arten von Daten.
 
 Dies ist ein Beispiel für einen persönlichen Server, der logischerweise 24 Stunden am Tag eingeschaltet sein müsste, um jederzeit auf Anfragen reagieren zu können. Dieses System wird in der Regel in größerem Maßstab von privaten Unternehmen genutzt, die das berühmte Webhosting anbieten. Dabei handelt es sich im Grunde um eine große Anzahl von Maschinen, die den zuvor beschriebenen Dienst bereitstellen, diesmal jedoch nicht nur für eine Website mit einigen Videos, sondern für Tausende von Websites aus aller Welt.
 Es gibt weitaus größere Unternehmen, die mehr Leistung und Dienstleistungen anbieten, wie nationale Telefongesellschaften oder internationale Riesen. Heutzutage werden Server sogar ausschließlich zur Deckung der Nachfrage nach Diensten der künstlichen Intelligenz eingerichtet.
 
-Das Fediverse
+### Das Fediverse
 
 Nachdem wir nun eine allgemeine Vorstellung davon haben, wie ein Server funktioniert, sprechen wir über das Fediverse.
 Das Fediverse ist ein Ökosystem von Anwendungen, die wiederum Kanäle haben, die als Instanzen bezeichnet werden. Die Aktivität jedes Kanals oder jeder Instanz wird auf einem Server gehostet, der von einer Gemeinschaft, einer Einzelperson oder einem privaten Unternehmen verwaltet wird. Man könnte sagen, das ist ähnlich wie bei Discord, wo man einen Server mietet, um seine Community zu beherbergen. Der Unterschied besteht jedoch darin, dass all diese Server dem Unternehmen Discord gehören, während im Fediverse alles unabhängig ist.
@@ -85,7 +86,7 @@ Und das ist keine Science-Fiction: Im Fediverse funktioniert das BEREITS so. Sie
 
 Im Fediverse gibt es nicht nur Mastodon mit seinen Möglichkeiten, Beiträge zu schreiben oder Links zu teilen. Es gibt auch spezielle Anwendungen für Videos, Podcasts usw., die alle die Besonderheit haben, sich untereinander föderieren zu können, weil sie das ActivityPub-Protokoll verwenden. Es gibt PeerTube für Videos und Castopod für Podcasts.
 
-Die Zukunft des Fediverse
+### Die Zukunft des Fediverse
 
 Das Fediverse wurde angeblich gebaut, um die Monopole großer Unternehmen wie Google, Microsoft und Apple zu bekämpfen. Es gibt jedoch viele Herausforderungen, und ich habe einige Probleme festgestellt.
 
@@ -100,14 +101,15 @@ Das liegt wahrscheinlich daran, dass wir so viele Informationen in so großer Me
 Drehen wir den Kontext um. Wir verbringen viel Zeit offline und fernab von allem. Stellen wir uns vor, wir befinden uns in einer unserer Gesellschaft völlig fremden Welt, stellen wir uns vor, wir sind auf dem Planeten Mars. Und es stellt sich heraus, dass wir eine Nachricht erhalten, oder einen Toot, wie sie auf Mastodon genannt werden. Stellen Sie sich vor, wie wertvoll dieser Toot für uns sein wird. Ob Video, Audio oder ein einfacher Satz – er gibt Ihnen das Gefühl, nicht allein zu sein und dass da jemand auf der anderen Seite ist. Wir würden es als viel wertvoller erachten, gerade weil Toot in einer Zeit der Einsamkeit und Not ankam und wir es deshalb brauchten. Deshalb ist es wichtig, uns aus dieser Perspektive zu positionieren, um alles wertzuschätzen, was ankommt, auch wenn die Absicht auf der anderen Seite eine andere ist.
 
 Schließlich stellt sich eine unangenehme Frage: Wenn das Fediverse dieselben Machtdynamiken reproduziert, die es kritisiert, handelt es sich dann nicht einfach um digitalen Feudalismus mit besserer Vermarktung? Oder besteht noch Hoffnung, dass die Dezentralisierung ihr ursprüngliches Versprechen einlöst?
+
 RGartner-Aufsatz
 
 
-Español
+# Español
 
-¿Qué es el Fediverso, Mastodon y las aplicaciones descentralizadas?
+## ¿Qué es el Fediverso, Mastodon y las aplicaciones descentralizadas?
 
-Servidores
+### Servidores
 
 Para entender el Fediverso tenemos que entender qué es un servidor. Tu servidor es lo más parecido a un router, que contiene entradas y salidas para hacer cosas. Tu computadora podría ser un servidor si la configuras de cierta manera. Imaginemos que tienes unos videos para compartir y quieres hacerlo desde tu casa. Si tu computadora ahora es un servidor podrías compartir desde tu casa esos videos. Tendrías que crear una web con otra computadora a través de software como WordPress u otros y conectar a tu computadora-servidor. Con este sistema, el público general irá a esa web donde habrá unas miniaturas de tus videos, daría clic, y de ahí se envía la señal a tu computadora-servidor que recibe esa petición en su entrada, y en su salida envía la señal de tu video a la web para que el público lo vea. Esto, dependiendo del ancho de banda de la velocidad de las conexiones puede durar milisegundos gracias a los avances tecnológicos como el 5g. A grandes rasgos esto es un servidor, que como su nombre lo indica, da un servicio de entrada y salida de contenidos, como videos, audios y todo tipo de datos.
 
@@ -115,7 +117,7 @@ Este ejemplo es de un servidor personal, que por lógica tendría que estar ence
 
 Hay empresas mucho más grandes que ofrecen más potencia y más servicios como las telefónicas nacionales o empresas gigantes a nivel internacional. Hasta hoy en día se montan servidores únicamente para atender las demandas de servicios de inteligencia artificial.
 
-Fediverso
+### Fediverso
 
 Una vez que sabemos cómo funciona un servidor en líneas generales, hablemos del Fediverso.
 El Fediverso es un ecosistema donde hay aplicaciones que a su vez tienen canales, que se llaman instancias. La actividad de cada canal o instancia, está alojada en un servidor que es administrado por una comunidad o una persona o empresa privada. Hasta aquí podría decirse que esta actividad es similar a Discord donde contratas un servidor para llevar a tu comunidad ahí. Pero hay una diferencia, y está en que todos esos servidores, pertenecen a la empresa Discord mientras que en el Fediverso es algo independiente.
@@ -128,7 +130,7 @@ Y esto no es ciencia ficción: en el Fediverso YA funciona así. Puedes seguir a
 
 Dentro del Fediverso no solo está Mastodon con todas sus posibilidades, puedes escribir post, subir pequeños audios, o colocar enlaces como en Twitter. También en el Fediverso hay aplicaciones exclusivas para videos, podcast etc., y todas tienen la particularidad de poder federarse entre sí porque usan el protocolo ActivityPub que comentamos anteriormente. Está PeerTube para videos y Castopod para subir podcasts.
 
-Futuro del Fediverso
+### Futuro del Fediverso
 
 El Fediverso dicen que fue construido para combatir precisamente los monopolios de las grandes empresas como Google, Microsoft, Apple, donde utilizan nuestros datos para muchas cosas. No obstante hay muchos desafíos por delante, ya que he detectado un par de problemas.
 
@@ -143,13 +145,15 @@ Posiblemente se deba a que, recibimos tanta información, en tanta cantidad, y c
 Pongamos el contexto a la inversa. Nos encontramos durante mucho tiempo sin conexión y alejados de todo. Imaginemos que estamos en un mundo completamente ajeno a nuestra sociedad, imaginemos que estamos en el planeta Marte. Y resulta que recibimos un mensaje, o un Toot, así como los llaman en Mastodon. Imagina, qué valioso será ese Toot para nosotros. Ya sea un video, un audio, o una simple frase, que te haga sentir que no estás solo y que hay alguien al otro lado. Lo consideraríamos mucho más valioso, precisamente porque ese Toot, llegó en un momento de soledad y carencia, y por ende, lo necesitábamos. Por eso es importante posicionarnos desde esta perspectiva para dar valor a todo lo que llegue, por más que la intención que haya del otro lado, sea otra.
 
 Por último me surge una pregunta incómoda: Si el Fediverso reproduce las mismas dinámicas de poder que critica, ¿no es simplemente feudalismo digital con mejor marketing? ¿O todavía hay esperanza de que la descentralización cumpla su promesa original?
+
 Ensayo RGartner
 
 
-Français 
+# Français 
 
-Qu'est-ce que le Fediverse, Mastodon et les applications décentralisées ?
-Serveurs
+##Qu'est-ce que le Fediverse, Mastodon et les applications décentralisées ?
+
+### Serveurs
 
 Pour comprendre le Fediverse, il faut d'abord comprendre ce qu'est un serveur. Votre serveur ressemble beaucoup à un routeur ; il a des entrées et des sorties pour effectuer des tâches. Votre ordinateur pourrait être un serveur si vous le configurez d'une certaine manière. Imaginons que vous ayez des vidéos à partager et que vous vouliez le faire depuis chez vous. Si votre ordinateur est maintenant un serveur, vous pourriez partager ces vidéos depuis votre maison. Vous devriez créer un site web avec un autre ordinateur via un logiciel comme WordPress et le connecter à votre ordinateur-serveur. Avec ce système, le public visiterait ce site, verrait des miniatures de vos vidéos, cliquerait, et de là, le signal serait envoyé à votre ordinateur-serveur. Celui-ci reçoit la requête en entrée et, en sortie, envoie le signal de votre vidéo au web pour que le public puisse la voir. Cela peut prendre des millisecondes grâce aux avancées technologiques comme la 5G. En bref, c'est un serveur : il fournit un service d'entrée et de sortie pour des contenus comme les vidéos, l'audio et toutes sortes de données.
 
@@ -157,7 +161,7 @@ Ceci est un exemple de serveur personnel, qui devrait logiquement être allumé 
 
 Il existe des entreprises beaucoup plus grandes qui offrent plus de puissance et de services. Aujourd'hui, des serveurs sont même mis en place uniquement pour répondre aux demandes des services d'intelligence artificielle.
 
-Le Fediverse
+### Le Fediverse
 
 Maintenant que nous savons comment fonctionne un serveur, parlons du Fediverse.
 Le Fediverse est un écosystème d'applications qui ont à leur tour des canaux, appelés instances. L'activité de chaque instance est hébergée sur un serveur administré par une communauté, une personne ou une entreprise privée. On pourrait dire que c'est similaire à Discord, où l'on loue un serveur pour sa communauté. Mais il y a une différence : tous ces serveurs appartiennent à Discord, alors que dans le Fediverse, tout est indépendant.
@@ -170,7 +174,7 @@ Et ce n'est pas de la science-fiction : dans le Fediverse, cela fonctionne DÉJ�
 
 Dans le Fediverse, il n'y a pas que Mastodon. Il existe également des applications dédiées pour les vidéos, les podcasts, etc., qui peuvent toutes se fédérer entre elles car elles utilisent le protocole ActivityPub. Il y a PeerTube pour les vidéos et Castopod pour les podcasts.
 
-L'avenir du Fediverse
+### L'avenir du Fediverse
 
 Le Fediverse a été conçu pour lutter contre les monopoles des grandes entreprises comme Google, Microsoft et Apple. Cependant, il y a de nombreux défis à relever, et j'ai identifié quelques problèmes.
 
@@ -189,11 +193,11 @@ Enfin, une question délicate se pose : si le Fediverse reproduit les mêmes dy
 Essai de RGartner
 
 
-Italiano
+# Italiano
 
-Cos'è il Fediverso, Mastodon e le applicazioni decentralizzate?
+## Cos'è il Fediverso, Mastodon e le applicazioni decentralizzate?
 
-Server
+### Server
 
 Per capire il Fediverso, dobbiamo prima capire cos'è un server. Un server è molto simile a un router; ha input e output per eseguire compiti. Il tuo computer potrebbe essere un server se lo configuri in un certo modo. Immagina di avere dei video da condividere da casa tua. Se il tuo computer è ora un server, potresti condividere quei video. Dovresti creare un sito web con un altro computer tramite un software come WordPress e collegarlo al tuo computer-server. Con questo sistema, il pubblico visiterebbe quel sito, vedrebbe le miniature dei tuoi video, farebbe clic, e da lì il segnale verrebbe inviato al tuo computer-server. Questo riceve la richiesta come input e, come output, invia il segnale del tuo video al web affinché il pubblico lo veda. Questo processo può durare millisecondi grazie a progressi tecnologici come il 5G. In linea generale, questo è un server: fornisce un servizio di input e output per contenuti come video, audio e dati di ogni tipo.
 
@@ -202,7 +206,7 @@ Questo è un esempio di un server personale, che logicamente dovrebbe rimanere a
 Ci sono aziende molto più grandi che offrono più potenza e servizi. Oggi, i server vengono persino allestiti esclusivamente per soddisfare le esigenze dei servizi di intelligenza artificiale.
 
 
-Il Fediverso
+### Il Fediverso
 
 Ora che abbiamo un'idea di come funziona un server, parliamo del Fediverso.
 
@@ -215,7 +219,7 @@ E questa non è fantascienza: nel Fediverso FUNZIONA GIÀ così. Puoi seguire un
 
 All'interno del Fediverso non c'è solo Mastodon. Ci sono anche applicazioni dedicate per video, podcast, ecc., che possono tutte federarsi tra loro perché usano il protocollo ActivityPub. C'è PeerTube per i video e Castopod per i podcast.
 
-Il Futuro del Fediverso
+### Il Futuro del Fediverso
 
 Il Fediverso è stato costruito per combattere i monopoli di grandi aziende come Google, Microsoft e Apple. Tuttavia, ci sono molte sfide da affrontare, e ho individuato un paio di problemi.
 
@@ -233,12 +237,12 @@ Infine, sorge una domanda scomoda: se il Fediverso riproduce le stesse dinamiche
 Saggio di RGartner
 
 
-Português 
+# Português 
 
-O que é o Fediverso, o Mastodon e as aplicações descentralizadas?
+## O que é o Fediverso, o Mastodon e as aplicações descentralizadas?
 
 
-Servidores
+### Servidores
 
 
 Para entender o Fediverso, primeiro precisamos entender o que é um servidor. O seu servidor é muito parecido com um router; ele tem entradas e saídas para realizar tarefas. O seu computador poderia ser um servidor se o configurasse de uma certa maneira. 
@@ -249,7 +253,7 @@ Este é um exemplo de um servidor pessoal, que logicamente teria de estar ligado
 
 Existem empresas muito maiores que oferecem mais potência e serviços. Hoje em dia, até se montam servidores exclusivamente para atender às demandas de serviços de inteligência artificial.
 
-O Fediverso
+### O Fediverso
 
 Agora que temos uma ideia geral de como um servidor funciona, vamos falar sobre o Fediverso.
 O Fediverso é um ecossistema de aplicações que, por sua vez, têm canais, chamados instâncias. A atividade de cada instância é alojada num servidor que é administrado por uma comunidade, uma pessoa ou uma empresa privada. Pode-se dizer que é semelhante ao Discord, onde se aluga um servidor para a sua comunidade. Mas há uma diferença: todos esses servidores pertencem à empresa Discord, enquanto no Fediverso tudo é independente.
@@ -262,7 +266,7 @@ E isto não é ficção científica: no Fediverso, ISTO JÁ funciona. Pode segui
 
 Dentro do Fediverso, não existe apenas o Mastodon. Existem também aplicações dedicadas a vídeos, podcasts, etc., e todas elas podem federar entre si porque usam o protocolo ActivityPub. Existe o PeerTube para vídeos e o Castopod para podcasts.
 
-O Futuro do Fediverso
+### O Futuro do Fediverso
 
 O Fediverso foi construído para combater os monopólios de grandes empresas como a Google, a Microsoft e a Apple. No entanto, existem muitos desafios pela frente, e eu identifiquei alguns problemas.
 
@@ -277,14 +281,15 @@ Provavelmente é porque recebemos tanta informação, em tanta quantidade, e acr
 Vamos inverter o contexto. Passamos muito tempo offline e longe de tudo. Vamos imaginar que estamos em um mundo completamente estranho à nossa sociedade, vamos imaginar que estamos no planeta Marte. E acontece que recebemos uma mensagem, ou um Toot, como os chamam no Mastodon. Imagine o quão valioso esse Toot será para nós. Seja um vídeo, um áudio ou uma frase simples, ele faz você sentir que não está sozinho e que há alguém do outro lado. Nós o consideraríamos muito mais valioso, justamente porque aquele Toot chegou em um momento de solidão e necessidade e, portanto, precisávamos dele. Por isso, é importante nos posicionarmos sob essa perspectiva para valorizar tudo o que chega, mesmo que a intenção do outro lado seja diferente.
 
 Finalmente, surge uma pergunta incômoda: se o Fediverse reproduz a mesma dinâmica de poder que critica, não seria simplesmente feudalismo digital com melhor marketing? Ou ainda há esperança de que a descentralização cumpra sua promessa original?
+
 Ensaio de RGartner
 
 
-हिन्दी (Hindi)
+# हिन्दी (Hindi)
 
-फेडिवर्स, मैस्टोडॉन और विकेंद्रीकृत एप्लिकेशन क्या हैं?
+## फेडिवर्स, मैस्टोडॉन और विकेंद्रीकृत एप्लिकेशन क्या हैं?
 
-सर्वर (Servers)
+### सर्वर (Servers)
 
 फेडिवर्स को समझने के लिए, हमें पहले यह समझना होगा कि सर्वर क्या है। आपका सर्वर एक राउटर की तरह होता है; इसमें काम करने के लिए इनपुट और आउटपुट होते हैं। यदि आप अपने कंप्यूटर को एक निश्चित तरीके से कॉन्फ़िगर करते हैं तो वह एक सर्वर हो सकता है। कल्पना कीजिए कि आपके पास साझा करने के लिए वीडियो हैं और आप इसे अपने घर से करना चाहते हैं। यदि आपका कंप्यूटर अब एक सर्वर है, तो आप उन वीडियो को अपने घर से साझा कर सकते हैं। आपको वर्डप्रेस जैसे सॉफ़्टवेयर का उपयोग करके किसी अन्य कंप्यूटर के साथ एक वेबसाइट बनानी होगी और उसे अपने कंप्यूटर-सर्वर से जोड़ना होगा। इस प्रणाली के साथ, आम जनता उस वेबसाइट पर जाएगी, आपके वीडियो के थंबनेल देखेगी, क्लिक करेगी, और वहां से सिग्नल आपके कंप्यूटर-सर्वर को भेजा जाएगा। यह उस अनुरोध को एक इनपुट के रूप में प्राप्त करता है और, एक आउटपुट के रूप में, आपके वीडियो के सिग्नल को वेब पर भेजता है ताकि जनता उसे देख सके। बैंडविड्थ के आधार पर, 5G जैसी तकनीकी प्रगति के कारण इसमें मिलीसेकंड लग सकते हैं। मोटे तौर पर, यह एक सर्वर है: यह वीडियो, ऑडियो और सभी प्रकार के डेटा जैसी सामग्री के लिए इनपुट और आउटपुट की सेवा प्रदान करता है।
 
@@ -292,7 +297,7 @@ Ensaio de RGartner
 ऐसी बहुत बड़ी कंपनियाँ हैं जो अधिक शक्ति और सेवाएँ प्रदान करती हैं। आज, सर्वर केवल कृत्रिम बुद्धिमत्ता सेवाओं की मांगों को संभालने के लिए भी स्थापित किए जाते हैं।
 
 
-फेडिवर्स (The Fediverse)
+### फेडिवर्स (The Fediverse)
 अब जब हमें एक सामान्य विचार है कि एक सर्वर कैसे काम करता है, तो चलिए फेडिवर्स के बारे में बात करते हैं।
 फेडिवर्स अनुप्रयोगों का एक पारिस्थितिकी तंत्र है, जिसमें बदले में चैनल होते हैं, जिन्हें इंस्टेंस (instances) कहा जाता है। प्रत्येक इंस्टेंस की गतिविधि एक सर्वर पर होस्ट की जाती है जिसे एक समुदाय, एक व्यक्ति या एक निजी कंपनी द्वारा प्रशासित किया जाता है। आप कह सकते हैं कि यह डिस्कॉर्ड के समान है, जहाँ आप अपने समुदाय की मेजबानी के लिए एक सर्वर किराए पर लेते हैं। लेकिन एक अंतर है: वे सभी सर्वर डिस्कॉर्ड कंपनी के हैं, जबकि फेडिवर्स में, सब कुछ स्वतंत्र है।
 फेडिवर्स में, आपके पास मैस्टोडॉन जैसे एप्लिकेशन हैं, जो एक्स (पूर्व में ट्विटर) के समान है, जिसमें स्वतंत्र चैनल या इंस्टेंस होते हैं, प्रत्येक के अपने सर्वर और प्रशासक होते हैं। ट्विटर के विपरीत, जहां सब कुछ एलोन मस्क के सर्वर पर समाप्त होता है, मैस्टोडॉन में डेटा उस विशिष्ट इंस्टेंस के सर्वर पर रह सकता है या अन्य सर्वर पर अन्य इंस्टेंस के साथ साझा किया जा सकता है। यह इस बात पर निर्भर करता है कि क्या प्रशासकों ने चैनलों का एक समुदाय बनाने का फैसला किया है जहां डेटा साझा किया जाता है। इस गतिविधि को संघ (federation) कहा जाता है।
@@ -303,7 +308,7 @@ Ensaio de RGartner
 
 फेडिवर्स के भीतर, केवल मैस्टोडॉन ही नहीं है। वीडियो, पॉडकास्ट आदि के लिए समर्पित एप्लिकेशन भी हैं, और वे सभी एक-दूसरे के साथ संघबद्ध हो सकते हैं क्योंकि वे एक्टिविटीपब प्रोटोकॉल का उपयोग करते हैं। वीडियो के लिए पीयरट्यूब और पॉडकास्ट के लिए कास्टोपॉड है।
 
-फेडिवर्स का भविष्य (The Future of the Fediverse)
+### फेडिवर्स का भविष्य (The Future of the Fediverse)
 
 फेडिवर्स का निर्माण गूगल, माइक्रोसॉफ्ट और एप्पल जैसी बड़ी कंपनियों के एकाधिकार से निपटने के लिए किया गया था। हालाँकि, आगे कई चुनौतियाँ हैं, और मैंने कुछ समस्याओं की पहचान की है।
 
