@@ -151,7 +151,7 @@ Ensayo RGartner
 
 # Français 
 
-##Qu'est-ce que le Fediverse, Mastodon et les applications décentralisées ?
+## Qu'est-ce que le Fediverse, Mastodon et les applications décentralisées ?
 
 ### Serveurs
 
