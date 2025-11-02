@@ -1,20 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Contenido on Archivo Editorial</title>
-    <link>http://localhost:1313/archivo-editorial-site/tags/contenido/</link>
-    <description>Recent content in Contenido on Archivo Editorial</description>
+    <title>Contenido on RGartner Audios Podcast Editorial</title>
+    <link>https://rgartneraudios.github.io/archivo-editorial-site/tags/contenido/</link>
+    <description>Recent content in Contenido on RGartner Audios Podcast Editorial</description>
     <generator>Hugo -- 0.152.1</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 23 Oct 2025 22:52:36 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/archivo-editorial-site/tags/contenido/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Oct 2025 21:29:55 +0200</lastBuildDate>
+    <atom:link href="https://rgartneraudios.github.io/archivo-editorial-site/tags/contenido/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El influencer equivocado: Por qué fracasan las campañas publicitarias</title>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/el-influencer-equivocado/</link>
+      <pubDate>Fri, 24 Oct 2025 21:29:55 +0200</pubDate>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/el-influencer-equivocado/</guid>
+      <description>&lt;div class=&#34;post-header-author&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;div class=&#34;post-header-author-info&#34;&gt;
+        &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
+        &lt;span class=&#34;post-header-date&#34;&gt;24 de October, 2025&lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr style=&#34;margin: 1.5rem 0;&#34;&gt;
+&lt;p&gt;Las marcas siguen cometiendo el mismo error: contratan a un influencer con millones de seguidores, lanzan una campaña, y el producto no se vende.&lt;/p&gt;
+&lt;p&gt;¿El problema? Confunden dos tipos de influencia completamente diferentes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Influencia aspiracional:&lt;/strong&gt; La audiencia quiere vivir como ese creador. Compran porque creen que ese producto los acercará a esa vida idealizada.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Influencia de atracción personal:&lt;/strong&gt; La audiencia consume por el atractivo o carisma del creador en sí. Alto engagement, retención visual excelente. Pero aquí hay un giro inesperado.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>El brócoli entre los donuts: La incomodidad del contenido serio en YouTube</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brocoli-entre-donuts/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brocoli-entre-donuts/</link>
       <pubDate>Thu, 23 Oct 2025 22:52:36 +0200</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brocoli-entre-donuts/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brocoli-entre-donuts/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;23 de October, 2025&lt;/span&gt;
@@ -24,7 +42,7 @@
 &lt;p&gt;Para quienes hacemos contenido que invita a reflexionar, hay algo incómodo que reconocer: competimos en un espacio diseñado para otra cosa.&lt;/p&gt;
 &lt;p&gt;No es que YouTube sea malo. Es una de las mejores plataformas para crear. El problema es más sutil: nuestro contenido debe compartir el mismo feed con escotes, minifaldas, caras de asombro en thumbnails y clickbaits vacíos.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/archivo-editorial-site/images/familia-en-el-salon-mirando-tv-abuelos-y-nietos.jpg&#34;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/familia-en-el-salon-mirando-tv-abuelos-y-nietos.jpg&#34;
          alt=&#34;Familia mirando TV&#34;/&gt; 
 &lt;/figure&gt;
 
