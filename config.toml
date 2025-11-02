@@ -1,6 +1,6 @@
 baseURL = "https://rgartneraudios.github.io/archivo-editorial-site/"  # Puedes cambiarlo cuando tengas dominio
 languageCode = 'es'
-title = 'RGartner FED Editorial'
+title = 'RGartner Audios Podcast Editorial'
 theme = 'PaperMod'
 
 defaultContentLanguage = 'es'
