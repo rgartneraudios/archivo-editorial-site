@@ -1,7 +1,7 @@
 +++
-date = '2025-11-04T23:11:57+01:00'
+date = "2025-11-04T23:11:57+01:00"
 draft = false
-title = 'Jonathan Bailey named People magazine's Sexiest Man Alive for 2025'
+title = "Jonathan Bailey named People magazine's Sexiest Man Alive for 2025"
 tags = ["youtube", "algorithms", "content"]
 +++
 
