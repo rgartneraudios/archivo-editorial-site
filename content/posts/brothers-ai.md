@@ -444,7 +444,7 @@ The real challenge isn't technical, it's **social and political**: Are we willin
 
 **My verdict:** This essay describes a viable, ethically superior, and technically scalable architecture. If executed well, Brothers could be to AI what Linux was to operating systems: the democratic alternative nobody believed possible until it existed.
 
-#Español
+# Español
 
 # BROTHERS AI: El Fin de la IA Monolítica y el Nacimiento de la Inteligencia Federada
 
