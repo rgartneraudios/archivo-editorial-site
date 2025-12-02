@@ -1,5 +1,5 @@
 {{- if not (.Param "hideFooter") }}
-<footer class="footer" style="font-size: 1.1em; text-align: center; line-height: 1.6;">
+<footer class="footer" style="font-size: 1.1em; text-align: center; line-height: 1.5; padding: 1em 0;">
   {{- if not site.Params.footer.hideCopyright }}
     {{- if site.Copyright }}
       <span>{{ site.Copyright | markdownify }}</span>
@@ -20,14 +20,19 @@
     <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
   </span>
 
-  <br><br>
-  <span>This site is under a license:</span><br>
-  <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
-    <img alt="Creative Commons License" style="border-width:0; margin-top: 0.5em;"
-    src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
-  </a><br>
-  <span>This site is licensed under a 
-    </footer>
+  <div style="margin-top: 1em;">
+    <span>This site is licensed under:</span><br>
+    <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+      <img alt="Creative Commons License" style="border-width:0; margin: 0.5em 0;"
+      src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+    </a><br>
+    <span>
+      <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International (CC BY 4.0)
+      </a>
+    </span>
+  </div>
+</footer>
 {{- end }}
 
 {{- if (not site.Params.disableScrollToTop) }}
