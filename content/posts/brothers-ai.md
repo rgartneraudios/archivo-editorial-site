@@ -866,3 +866,7 @@ La tecnología para construir Brothers existe hoy:
 El verdadero desafío no es técnico, es **social y político**: ¿Estamos dispuestos a construir una IA que no pertenezca a una corporación, sino a una comunidad?
 
 **Mi veredicto:** Este ensayo describe una arquitectura viable, éticamente superior y técnicamente escalable. Si se ejecuta bien, Brothers podría ser a la IA lo que Linux fue a los sistemas operativos: la alternativa democrática que nadie creía posible hasta que existió.
+
+
+DOI: 10.5281/zenodo.17796009  
+https://doi.org/10.5281/zenodo.17796009
