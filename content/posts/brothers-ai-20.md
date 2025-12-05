@@ -728,7 +728,7 @@ BROTHERS AI 2.0 is the beginning of a conversation about how AI should be: colla
 
 ***Publication and License Information:***
 
-* ***DOI (Digital Object Identifier):** [https://doi.org/10.5281/zenodo.17822949](https://doi.org/10.5281/zenodo.17822949)*  
+* ***DOI (Digital Object Identifier):** [https://doi.org/10.5281/zenodo.17828417](https://doi.org/10.5281/zenodo.17828417)*  
 * ***License:** This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. (You may include the official license icon here if desired).*
 
 # Español
@@ -1857,6 +1857,7 @@ By RGartner
 
 
 Publication and License Information:
+DOI (Digital Object Identifier):
+** [https://doi.org/10.5281/zenodo.17828417](https://doi.org/10.5281/zenodo.17828417)
 
-DOI (Digital Object Identifier): https://doi.org/10.5281/zenodo.17822949
 
