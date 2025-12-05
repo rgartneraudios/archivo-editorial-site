@@ -651,6 +651,8 @@ Portability Options
 
 The User chooses according to need and budget.
 
+NOTE: The BROTHER CAM is not limited to the pendant. We have designed two prototype padded headphones that integrate computer vision directly into the audio device. The first features dual cameras (front and rear) with LED flash embedded in the headphone structure, completely transforming the concept of portable audio into a complete sensory hub. The second prototype incorporates a retractable sliding visor—similar to a motorcycle helmet—with an integrated camera and flash, allowing the user to deploy it when they need BROTHER to see their surroundings and retract it for maximum discretion. These prototypes represent the natural evolution of portability in Brothers AI: you don't carry multiple devices, you carry a single system that sees, hears, and connects.
+
 ---
 
 ### 12\. Conclusion of Chapter 1
@@ -711,38 +713,6 @@ What is missing is the will to build it and adoption by users who want to regain
 
 ---
 
-### Upcoming Chapters (Preview)
-
-Chapter 2: Technical Communication Architecture
-
-* Communication protocols BROTHER ↔ PORT ↔ ARTUR ↔ Brothers.  
-* ISU AIR: Distributed inquiries and collective memory.  
-* Dynamic load balancing.  
-* Security and end-to-end encryption.
-
-Chapter 3: Transformative Use Cases
-
-* Decentralized Education (teachers with own Fingers).  
-* Commerce without Amazon/Shopify.  
-* Health (telemedicine via Brothers Health).  
-* E-Government (procedures via official Fingers).
-
-Chapter 4: Brothers AI Economy
-
-* Complete credit model.  
-* Mentions ADS in depth.  
-* Incentives for individual Fingers.  
-* Transparent revenue distribution.
-
-Chapter 5: Evolution and Governance
-
-* How is it decided which Brothers Categories to create?  
-* Community vs. corporate governance.  
-* OS Updates.  
-* Technology Roadmap 2025-2030.
-
----
-
 Final Note  
 This Chapter 1 defines the conceptual and architectural bases of Brothers AI 2.0. It is a living structure that will evolve according to the real needs of users and developers.  
 The categories of Brothers, the independent apps, and the Fingers that will emerge will be defined by the ecosystem itself, not imposed from above.  
@@ -762,6 +732,7 @@ BROTHERS AI 2.0 is the beginning of a conversation about how AI should be: colla
 * ***License:** This work is licensed under a **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. (You may include the official license icon here if desired).*
 
 # Español
+
 # BROTHERS AI 2.0 - Capítulo 1
 ## Inteligencia Artificial Colaborativa
 
@@ -1700,6 +1671,9 @@ PATRICK EN LA CALLE:
 
 **El User elige según necesidad y presupuesto.**
 
+NOTA: 
+La BROTHER CAM no se limita al medallón colgante. Hemos diseñado dos prototipos de auriculares acolchados que integran visión artificial directamente en el dispositivo de audio. El primero presenta cámaras duales (frontal y trasera) con flash LED empotradas en la estructura del auricular, transformando completamente el concepto de audio portátil en un hub sensorial completo. El segundo prototipo incorpora una visera corrediza desplegable —similar a los cascos de motocicleta— que lleva cámara y flash integrados, permitiendo al usuario desplegarla cuando necesita que BROTHER vea su entorno y retraerla para máxima discreción. Estos prototipos representan la evolución natural de la portabilidad en Brothers AI: no llevas múltiples dispositivos, llevas un único sistema que ve, escucha y conecta.
+
 ---
 
 ## 12. Conclusión del Capítulo 1
@@ -1780,38 +1754,6 @@ En este Capítulo 1 de **BROTHERS AI 2.0: Inteligencia Artificial Colaborativa**
 - Memoria colectiva temporal (24h)
 - Consultas distribuidas
 - Inteligencia emergente
-
----
-
-### Lo que Queda Abierto (Próximos Capítulos)
-
-**1. Categorías de Brothers aún no definidas:**
-- Brothers Technology (mencionado en ejemplos)
-- Brothers Espectáculos (desarrollado aquí)
-- ¿Qué otros Brothers surgirán? (Education, Commerce, Health...)
-- Las necesidades del ecosistema definirán nuevas categorías
-
-**2. Apps independientes emergentes:**
-- Brothers Espectáculos tiene app propia en hardware
-- ¿Habrá Brothers Education para cursos online?
-- ¿Brothers Commerce para compras sin Amazon?
-- ¿Brothers Health para telemedicina?
-
-**3. Fingers individuales:**
-- Políticas de contenido mencionadas
-- Falta desarrollar: proceso de solicitud, validación, costos
-- ¿Cómo se regula el ecosistema de Fingers privados?
-
-**4. Modelo económico completo:**
-- Créditos mencionados (1.2 créditos/uso TemplateCompany)
-- Pool de reparto entre Fingers
-- Mentions ADS (introducido)
-- Falta desarrollar flujos económicos completos
-
-**5. Interacción ARTUR con el sistema:**
-- ¿Cómo decide ARTUR qué es ético?
-- ¿Aprende de decisiones pasadas?
-- ¿Cómo balancea carga entre Brothers?
 
 ---
 
