@@ -1,7 +1,7 @@
 +++
 date = '2025-12-05T01:43:44+01:00'
 draft = false
-title = 'BROTHERS AI 2.0 - Chapter 1'
+title = 'BROTHERS AI - Versión 2.0'
 tags = ["federated-learning", "artificial-intelligence", "distributed-systems", "machine-learning", "privacy", "engineering", "AI-strategy", "innovation", "enterprise-AI", "scalability", "digital-transformation"]
 +++
 
