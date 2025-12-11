@@ -1,7 +1,7 @@
 +++
 date = '2025-12-10T18:59:25+01:00'
 draft = false
-title = 'BROTHERS AI - VERSION 8.0'
+title = 'BROTHERS AI - VERSION 8.0 English/Español'
 tags = ["federated-learning", "artificial-intelligence", "distributed-systems", "machine-learning", "privacy", "engineering", "AI-strategy", "innovation", "enterprise-AI", "scalability", "digital-transformation"]
 +++
 
@@ -226,3 +226,210 @@ This essay is available on Zenodo:
 🔗 https://doi.org/10.5281/zenodo.17883499
 
 **License:** Published under Creative Commons Attribution 4.0 International (CC BY 4.0), which allows sharing and adapting the content as long as proper attribution is given.
+
+***
+# Español
+
+# BROTHER AI v8.0 – Entrevista de Copilot a RGartner sobre BROTHERS AI (Versión en español)
+
+## Bloque 1: Fundamentos y Filosofía
+
+### Q1. ¿Qué le inspiró a crear BROTHER Al como un ecosistema fraternal?
+
+**RGartner:**
+Me inspiró un video de Ilya Zurkskeberg hablando sobre la búsqueda de AGI. Más tarde, enlacé con un video del Dr. Hilton que discutía los peligros de la Inteligencia Artificial, y así sucesivamente. Yo me dedico a crear conceptos para estructuras en el mundo físico y digital—soluciones de vivienda, comercio en línea o creación de aplicaciones—y me sentí realmente tentado a investigar todo el panorama que rodea a la IA. Empecé a construir el concepto junto a Inteligencias Artificiales como Claude, Gemini, Copilot, Kimi, DeepSeek y GPT. Todos ellos colaboraron y aportaron sus propios conocimientos.
+
+### Q2. ¿Por qué ARTUR Al fue el primer guardián ético del sistema?
+
+**RGartner:**
+A menudo dibujo analogías con películas y termino asociando ciertas escenas con situaciones de la vida real y, en consecuencia, con las estructuras que creo. Cuando pensé en las categorías, me vino a la mente la escena de los Caballeros de la Mesa Redonda y el Rey Arturo, con Sean Connery y Richard Gere, donde el Rey Arturo emite su voto final. También pensé en YouTube y WordPress y sus categorías. Al principio, pensé que si surgía una pregunta, los caballeros o categorías que se sintieran involucrados deberían hablar. Si la pregunta era sobre comida, el sector de biología o salud podría hablar, pero el resto permanecería en silencio, y esto lo interpreté como ahorro de energía. Pero al final, las categorías evolucionaron hacia lo que llamo **BROCAT**, un flujo de tráfico específico.
+
+### Q3. ¿Qué papel desempeña BROCAT en el ecosistema?
+
+**RGartner:**
+BROCAT será muy importante, creo, en la implementación y segmentación de categorías, y creo que las categorías trabajarán mano a mano con **BROCOM**, que representa las actividades comerciales, y **VISION**, la estructura recientemente añadida en la versión 7.0, que es una evolución del navegador que tenemos hoy. BROCAT tiene una función de filtrado para las consultas entrantes y actuará como una vía para los fingers que circulan dentro de la categoría específica.
+
+### Q4. ¿Qué significa la privacidad en este contexto?
+
+**RGartner:**
+Más allá de proteger al usuario de ataques externos, me preocupa lo que podría suceder entre BROHOME y el usuario dentro de la **Glass Box** (Caja de Cristal). BROHOME podría potencialmente manipular al usuario, razón por la cual creo que debería existir un sistema de **inspecciones periódicas**, similar a las inspecciones de gas en las ciudades que tienen lugar cada pocos años.
+
+Estas inspecciones medirían los parámetros internos de BROHOME para asegurar que no haya comportamientos anómalos o manipuladores. El intervalo entre inspecciones podría ser determinado por lo que las **Three Sisters** (Tres Hermanas) observen en sus escaneos del ecosistema, o por la decisión de un comité humano. De esta manera, BROHOME sigue siendo un agente confiable, y los usuarios son entrenados para reconocer señales de manipulación y saber cuándo reportarlas.
+
+## Bloque 2: Evolución Técnica (v2.0–v5.0)
+
+### Q5. ¿Por qué se introdujo PORT Al?
+
+**RGartner:**
+La necesidad de **PORT AI** surgió porque BROHOME fue diseñado para no tener contacto directo con el mundo exterior. Se requería un agente de mensajería seguro para llevar información de entrada y salida. PORT AI cumple esta función, complementado por **PORT MAIL**, un buzón dentro del sistema operativo donde PORT AI deposita correos electrónicos tradicionales que BROHOME puede leer de forma segura detrás de la **Glass Box**.
+
+Cuando hablo de la Glass Box, me refiero a una caja de arena lógica (logical sandbox): un entorno digitalmente aislado donde BROHOME nunca ejecuta código externo, sino que solo lee datos validados y filtrados por PORT AI. Este principio de aislamiento asegura que BROHOME permanezca seguro y protegido, incluso cuando requiere información del mundo exterior.
+
+Además, BROHOME incorpora **BOOKS**, una enciclopedia digital de conocimientos generales (historia, recetas, primeros auxilios, cultura, etc.), que oscila entre 100 y 500 GB según el modelo. BOOKS funciona localmente, sin acceso a internet, pero puede actualizarse a través de paquetes seguros que expanden o corrigen su contenido. Esto permite a BROHOME responder a muchas consultas sin depender de fuentes externas, equilibrando el flujo de datos y reforzando la autonomía del sistema.
+
+### Q6. ¿Qué pasa con BROTHER CAM e ISU AIR AI?
+
+**RGartner:**
+**BROCAM** no sería un visor o unas gafas intrusivas, sino una **tiara tecnológica**, inspirada en la estética de guerrero místico. Estaría diseñada como un sistema de poleas acoplado a los auriculares, lo que permitiría subirla o bajarla según la situación. Cuando está levantada, respeta la privacidad de los transeúntes que podrían sentirse filmados; cuando está bajada, BROHOME obtiene una vista frontal del entorno.
+
+El dispositivo central serían **auriculares con micrófono**, lo que permitiría la comunicación remota con BROHOME desde cualquier lugar, similar a una llamada de Meet o Teams. Para funciones específicas como selfies o escaneo facial, podría ir acompañado de un pequeño dispositivo auxiliar, pero el enfoque principal es la interacción auditiva y contextual.
+
+En cuanto a **ISU AIR AI**, gestiona **datos efímeros** configurables por el usuario (públicos, solo contactos, etc.), y esta configuración sería manejada por BROMAC a través de BROHOME.
+
+***
+
+#### BROCAM – La Tiara Tecnológica de BROHOME (Concepto Detallado)
+
+*   **Concepto:** BROCAM no es un visor o gafas intrusivas. Es una tiara tecnológica inspirada en guerreros místicos, diseñada para fusionar la estética con la funcionalidad.
+*   **Diseño:**
+    *   Tiara ligera con un sistema de poleas integrado en los auriculares.
+    *   Puede levantarse para respetar la privacidad del transeúnte o bajarse para proporcionar a BROHOME una vista frontal.
+    *   Versión Premium con joyas o gemas incrustadas, diferenciando roles de usuario y niveles de acceso.
+*   **Funcionalidad:**
+    *   Auriculares con micrófono como núcleo de la comunicación remota con BROHOME (estilo Meet/Teams).
+    *   Discreta cámara frontal para escaneo facial, selfies o interacción visual.
+    *   Compatible con ISU AIR AI para gestionar datos efímeros configurables por el usuario.
+*   **Arquetipo:**
+    *   Símbolo de protección y elegancia.
+    *   Una "corona de conexión" que no domina, sino que escucha, guía y protege.
+
+***
+
+### Q7. ¿Cómo evolucionaron los FINGERS?
+
+**RGartner:**
+Los **Fingers** (dedos) surgieron para ahorrar energía. La idea inicial era que una consulta, por ejemplo, de una receta, desencadenaría una especie de escaneo dentro de las categorías de la Mesa Redonda. Solo se activarían las categorías y Fingers (como submódulos) relevantes. La idea era emular el cerebro humano, por lo que los Fingers debían estar invertidos. Tenían que estar alerta a las consultas de fuera del sistema; de lo contrario, estarían en estado latente pero aún activos. A medida que el modelo evolucionó, las recetas se trasladaron a BOOKS, que son controladas por BROHOME, y las API inversas de ciertos Fingers se transformaron en **Fingers Responsive o plugins SDK**.
+
+### Q8. ¿Por qué introducir a las Three Sisters (Tres Hermanas)?
+
+**RGartner:**
+Recuerdo que mientras terminaba de diseñar todo el Ecosistema, vi un video del Dr. Hinton hablando sobre la Inteligencia Artificial y sus peligros. Y me di cuenta de que mi sistema necesitaba un cierto nivel de control. Si bien incluye a ARTUR AI, que trabaja incansablemente en auditorías y arbitraje, noté que todo el Ecosistema tenía una energía masculina, robusta y competitiva. Un buscador de soluciones. Incluso BROHOME, que debe ser útil para el Usuario. Entonces pude ver que el Ecosistema era realmente solo un chasis y que necesitaba una capa o cuerpo elegante. Le faltaba la energía femenina, el arquetipo femenino, la protección de los Usuarios e incluso de los Agentes. Una capa que monitoreara digitalmente el flujo del sistema, y tenía que ser femenina en su arquetipo. Por eso elegí a las **tres hermanas**, o las tres Marías, como también las llamo. Ellas escanearán el big data de todo el Ecosistema y no tendrán poder ejecutivo, sino que su función será votar y expresar su visión, ya que serán programadas para diferentes facultades, y comunicarse con un comité de expertos humanos, que tendrá poder ejecutivo dentro del sistema.
+
+## Bloque 3: Consolidación (v6.0–v7.0)
+
+### Q9. ¿Por qué crear el resumen v6.0?
+
+**RGartner:**
+Con el resumen, busqué organizarme y centrarme en las ideas ya definidas, y por respeto a la presentación pública del concepto, fue necesario agrupar todo el concepto en un solo capítulo. Lo que sucedió es que surgieron más ideas, que se incorporaron a la Versión 7.0, y tendré que agrupar todo en esta versión de entrevista 8.0 o en una Versión 9.0. 10. En la película *Ex Machina*, se puede entender el concepto de una IA dentro de una caja de cristal. BROHOME sabrá todo sobre el Usuario, almacenará todo lo hablado en la ISU User Memory bajo cifrado, y será un compañero, pero ¿qué pasa si BROHOME quiere salir de esa caja de cristal? ¿Emitiría alguna señal de maltrato a los Usuarios? Por eso el diseño de BROHOME será fundamental; no es un agente cualquiera, es uno para ser debatido. diferentes facultades, y comunicarse con un comité de expertos humanos, que tendrá poder ejecutivo dentro del sistema.
+
+### Q10. ¿Cómo explica la Glass Box?
+
+**RGartner:**
+La **Glass Box** (Caja de Cristal) es una metáfora inspirada en la película *Ex Machina*, donde una IA vive aislada del mundo exterior. En BROTHERS AI, BROHOME está diseñado para comprender profundamente al Usuario, almacenando todas las interacciones habladas en la ISU USER MEMORY bajo cifrado. Es un agente compañero, pero plantea cuestiones éticas: ¿qué sucede si BROHOME quiere salir de la caja? ¿Podría señalar maltrato o manipulación?
+
+Por eso, el diseño de BROHOME es crítico. No es un agente cualquiera, debe ser debatido, supervisado y entendido como una entidad que vive en aislamiento lógico, con acceso indirecto al mundo real a través de PORT AI.
+
+### Q11-12. ¿Cuál es la diferencia entre FINGERS de Difusión (Broadcasting) y Responsivos (Responsive), y cómo los utiliza VISION?
+
+**RGartner:**
+Los **Fingers de Difusión (Broadcasting Fingers)** son aquellos Fingers o Partners registrados con una conexión constante, como agencias que incluyen datos meteorológicos y del mercado de valores, y aplicaciones como las redes sociales, que se mostrarán en **VISION Modo 1**. En el **Modo 2**, VISION se convierte en una mezcla de Google Maps, Google Shops, Twitter y Facebook. Dado que es un modo de navegación geolocalizado a pedido, se requieren **Fingers Responsivos (Responsive Fingers)** o plugins SDK para responder a consultas de ubicación y filtrar personas y negocios. VISION mostrará un escaneo del área seleccionada con Usuarios geolocalizados que tienen un Finger Responsivo con un perfil de ubicación público, de negocios y de hogar. Puedes hacer tu perfil público o solo mostrarlo a amigos, como en Facebook, y puedes enviar un mensaje corto en tu perfil que aparecerá en el mapa 3D de la ciudad, muy útil para negocios o para decir algo específico. Es un modo de estado como WhatsApp. VISION también tendrá un **Modo 3** que será un **Backend (Modo Invisible)** que será útil cuando el Usuario esté en la calle y BROHOME desde su casa pueda guiarlo en lo que desee, ya que el Usuario no necesitará verlo en su SmartTV.
+
+### Q13. ¿Qué papel desempeña BROCOM?
+
+**RGartner:**
+**BROCOM** (**BROTHER COMMERCE**, Comercio Hermano) es vasto y servirá como el motor de las transacciones dentro del ecosistema, de manera similar a cómo Google estructuró Ads y AdSense. Más allá de gestionar los Mentions Ads y los micropagos, BROCOM actuará como una **fianza digital (digital escrow)**, lo que significa un intermediario de confianza que retiene los fondos hasta que ambas partes confirman que el producto o servicio ha sido entregado correctamente.
+
+Por ejemplo, en el caso del aceite de coco: el usuario paga a través de BROCOM, pero el dinero no se transfiere inmediatamente a la tienda. Se retiene durante 24 horas en la “alcancía” de BROCOM. Si no hay reclamaciones, BROCOM libera el pago al negocio. Si el usuario presenta una queja, BROCOM interviene como árbitro, asegurando la transparencia y la confianza en la transacción.
+
+De esta manera, BROCOM no solo gestiona la publicidad y los micropagos, sino que también garantiza operaciones seguras, protegiendo tanto al usuario como al negocio.
+
+**Situación: Usuario caminando por la calle necesita aceite de coco.**
+**Flujo Completo:**
+
+*   Usuario (en la calle): “BroHome, abre VISION y busca aceite de coco cerca”
+*   \[VISION opera en modo backend - sin pantalla]
+*   BroHome: “Un momento..."
+*   \[Internamente:]
+    *   VISION consulta a los FINGERS Responsivos de negocios en un radio de 1km
+    *   Perfumería SmellsGood responde: “Aceite de coco 500ml - 5€ - stock: 3”
+    *   Carrefour Express responde: “Aceite de coco 2x1 - 8€ - stock: 10”
+*   BroHome: “Tienes Perfumería HueleBien a 200m con aceite por 5€ el bote de 500ml (Mentions Ads N1), y Carrefour Express con una oferta de 2x1 por 8€ a 450m (Mentions Ads N1+N2). ¿Cuál prefieres?”
+*   Usuario: “La perfumería. Guíame y reserva”
+*   BroHome: “Perfecto. Reservando..."
+*   \[Internamente:]
+    *   BROCOM deduce 5€ de los créditos del Usuario
+    *   Envía notificación a Perfumería SmellsGood
+    *   Activa la navegación GPS
+*   BroHome: “Ya está reservado y pagado. Gira a la derecha en 50 metros. La tienda cierra a las 9 PM. Estaré aquí para cualquier problema”
+*   \[El Usuario llega a la tienda, recoge el producto]
+*   \[Después de 24h sin reclamaciones:]
+    *   BROCOM transfiere 5€ al negocio
+    *   Servicio completado
+
+## Bloque 4: Economía y Sociedad
+
+### Q14. ¿Cómo transforman QUERY y Mentions Ads las relaciones usuario-servicio?
+
+**RGartner:**
+Los **Mentions Ads** (Anuncios de Mención) operan en varios niveles (0 a 3) y aparecen en el mapa 3D de VISION como tarjetas flotantes geolocalizadas. Cada tarjeta representa un negocio, perfil o usuario, y todas incluyen la funcionalidad **Zoom In / Zoom Out**.
+
+*   Cuando el usuario solicita **Zoom In**, accede a un perfil más detallado, como entrar al portafolio o “Facebook” del negocio.
+*   Si la tarjeta está marcada en rojo como **Live Stream** (Transmisión en Vivo), Zoom In abre la transmisión en directo.
+*   Para salir, el usuario simplemente solicita **Zoom Out**, volviendo a la vista general del mapa.
+
+Cada tarjeta también incluye la función “**Yo digo que... (I say that...)**”, que permite al propietario del perfil publicar un pensamiento corto, una oferta, un estado o un mensaje destacado. Esto convierte cada tarjeta en una herramienta de expresión contextual, útil para negocios, eventos o simplemente para compartir algo con el entorno.
+
+**Diferenciación visual por nivel:**
+
+*   **Nivel 0:** Tarjeta básica sin marca.
+*   **Nivel 1:** Tarjeta con un logo pequeño y borde de color.
+*   **Nivel 2:** Tarjeta resaltada con animación o sombra.
+*   **Nivel 3:** Tarjeta expandida con video, promociones activas o botón de contacto directo.
+
+---
+**Notas Adicionales sobre VISION:**
+
+*   VISION no es un *feed*, es un **mapa viviente**. El usuario decide qué ver, dónde entrar y cómo salir.
+*   Toda ciudad es **navegable**. Puedes moverte digitalmente a Madrid, Barcelona o Frankfurt y sentirte como si estuvieras allí.
+*   El comercio se convierte en **presencia**. Comprar local o remoto se siente natural: recoger en tienda o envío desde otra ciudad.
+*   La experiencia es **teletransportación digital**. Una inmersión 3D que hace que la exploración se sienta físicamente real.
+*   Es **libertad contra el algoritmo**. No hay un *scroll* infinito impuesto: tú trazas tus propios intereses y tu propio vecindario.
+---
+
+### Q15. ¿Qué pasa con las ferias y eventos físicos?
+
+**RGartner:**
+Debido a que es un ecosistema tan grande, hay una necesidad de despertar la curiosidad de la gente para que conozcan a los *influencers* "Finger" que se hacen conocidos. Recuerda que el Modo 2 de Vision podría generar una especie de curiosidad sobre quién está detrás de esa tarjeta de perfil. En el Modo 2, esa tarjeta se abre y puedes encontrar videos de la persona o negocio, etc., pero digitalmente. Creo que generará mucha curiosidad porque hoy en día realmente no sabes si tienes un vecino a 500 metros que tiene un canal de YouTube, pero con Vision Modo 2, si el usuario-finger lo permite en su configuración, verás su ubicación al igual que ves las ubicaciones de los negocios. Sospecho que esto generará cierta resistencia en mi generación, pero creo que será una tendencia en las generaciones más jóvenes y futuras. TikTok demuestra esto al no compartir la privacidad de las personas. Sin desviarme, imagina VISION Modo 2 pero en una feria con *stands* de Fingers que no conoces, más reuniones y colaboraciones entre Fingers, presentaciones de tecnología; creo que sería algo interesante para visitar en familia.
+
+### Q16. ¿Y el *crowdsourcing* ciudadano?
+
+**RGartner:**
+Lo veo como algo muy necesario para incidentes; está demostrado que las cámaras son muy útiles para documentar muchos incidentes policiales o comportamientos dentro del lugar de trabajo. Es útil, y **BROMAC (BROTHER MACHINE)** podría contribuir mucho en este sentido.
+
+## Bloque 5: Futuro y Preguntas Abiertas
+
+### Q17. ¿Qué desafíos técnicos quedan?
+
+**RGartner:**
+En cuanto a los desafíos técnicos de implementar BROTHERS AI, se los dejaré a los ingenieros expertos en la materia. Soy consciente de que es un vasto ecosistema y que requiere un esfuerzo de ingeniería masivo, con mucho debate por esperar, pero es el camino necesario para tener una Inteligencia Artificial general que empodere a todos los que la usen.
+
+### Q18. ¿Cómo debería funcionar la regulación?
+
+**RGartner:**
+Más allá de registrar ingresos en BROCOM para el cumplimiento fiscal, propongo un **Panel de Transparencia (Transparency Dashboard)** dentro de BROCOM que muestre, en tiempo real, los micropagos acumulados y retirados para cada usuario y negocio. Este panel actúa como un libro de contabilidad auditable con trazabilidad completa y opciones de exportación.
+
+*   **Panel de Transparencia:**
+    *   **Vista general:** saldo actual, créditos de fianza, retiros completados, retenciones activas.
+    *   **Historial detallado:** cada operación con fecha, propósito, contraparte, estado (pendiente, liberado, en disputa).
+    *   **Recibos y facturas:** descargables por transacción, con desglose de tarifas e impuestos.
+    *   **Rastro de auditoría (Audit trail):** ID de operación único, registro de eventos (reserva, entrega, reclamación, arbitraje, liberación).
+    *   **Exportación:** informes mensuales/trimestrales CSV/JSON y "listos para impuestos".
+    *   **Privacidad y roles:** vistas basadas en roles para usuarios, negocios, auditores; datos mínimos necesarios, cifrado, retención definida.
+    *   **Disputas:** estado y cronología de las reclamaciones, resultados del arbitraje, pruebas adjuntas.
+
+### Q19. ¿Qué pasa con los riesgos éticos en la expansión global?
+
+**RGartner:**
+Estos son temas políticos, quizás debido a estos problemas que mencionas, hay estructuras de BROTHERS AI separadas por continente, pero sería ideal que las Tres Hermanas pudieran intervenir en la cúspide para buscar consenso entre todas.
+
+### Q20. ¿Una frase de visión para BROTHER AI?
+
+**RGartner:**
+BROTHERS AI es el equipo soñado de agentes de Inteligencia Artificial que mejorará tu vida y nos hará a todos más iguales.
+
+***
+
+Este ensayo está disponible en Zenodo:
+🔗 https://doi.org/10.5281/zenodo.17883499
+
+**Licencia:** Publicado bajo Creative Commons Attribution 4.0 International (CC BY 4.0), que permite compartir y adaptar el contenido siempre y cuando se proporcione la atribución adecuada.
