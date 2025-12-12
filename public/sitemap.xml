@@ -2,72 +2,147 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/tags/algorithms/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/ai-strategy/</loc>
+    <lastmod>2025-12-12T17:07:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/artificial-intelligence/</loc>
+    <lastmod>2025-12-12T17:07:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-90ch/</loc>
+    <lastmod>2025-12-12T17:07:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/digital-transformation/</loc>
+    <lastmod>2025-12-12T17:07:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/distributed-systems/</loc>
+    <lastmod>2025-12-12T17:07:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/engineering/</loc>
+    <lastmod>2025-12-12T17:07:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/enterprise-ai/</loc>
+    <lastmod>2025-12-12T17:07:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/federated-learning/</loc>
+    <lastmod>2025-12-12T17:07:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/innovation/</loc>
+    <lastmod>2025-12-12T17:07:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/machine-learning/</loc>
+    <lastmod>2025-12-12T17:07:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/</loc>
+    <lastmod>2025-12-12T17:07:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/privacy/</loc>
+    <lastmod>2025-12-12T17:07:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/</loc>
+    <lastmod>2025-12-12T17:07:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/scalability/</loc>
+    <lastmod>2025-12-12T17:07:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/</loc>
+    <lastmod>2025-12-12T17:07:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-90/</loc>
+    <lastmod>2025-12-12T16:59:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-80ch/</loc>
+    <lastmod>2025-12-10T20:53:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-80/</loc>
+    <lastmod>2025-12-10T18:59:25+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-70ch/</loc>
+    <lastmod>2025-12-10T13:11:04+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-70/</loc>
+    <lastmod>2025-12-09T23:27:09+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-60ch/</loc>
+    <lastmod>2025-12-08T21:08:21+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-60/</loc>
+    <lastmod>2025-12-08T19:59:44+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-50/</loc>
+    <lastmod>2025-12-07T16:41:01+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-40/</loc>
+    <lastmod>2025-12-07T16:26:12+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-30/</loc>
+    <lastmod>2025-12-06T21:15:05+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-20/</loc>
+    <lastmod>2025-12-05T01:43:44+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brothers-ai/</loc>
+    <lastmod>2025-12-02T12:21:01+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/algorithms/</loc>
+    <lastmod>2025-11-18T23:06:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/content/</loc>
+    <lastmod>2025-11-18T23:06:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/migraci%C3%B3n-de-la-atenci%C3%B3n/</loc>
+    <lastmod>2025-11-18T23:06:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/youtube/</loc>
+    <lastmod>2025-11-18T23:06:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/the-free-university/</loc>
     <lastmod>2025-11-02T21:26:18+01:00</lastmod>
   </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/tags/content/</loc>
-    <lastmod>2025-11-02T21:26:18+01:00</lastmod>
-  </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/posts/</loc>
-    <lastmod>2025-11-02T21:26:18+01:00</lastmod>
-  </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/</loc>
-    <lastmod>2025-11-02T21:26:18+01:00</lastmod>
-  </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/tags/</loc>
-    <lastmod>2025-11-02T21:26:18+01:00</lastmod>
-  </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/posts/the-free-university/</loc>
-    <lastmod>2025-11-02T21:26:18+01:00</lastmod>
-  </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/tags/youtube/</loc>
-    <lastmod>2025-11-02T21:26:18+01:00</lastmod>
-  </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/posts/between-precarity-and-asian-potential/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/between-precarity-and-asian-potential/</loc>
     <lastmod>2025-10-29T19:49:19+01:00</lastmod>
   </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/posts/what-is-the-fediverse/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/what-is-the-fediverse/</loc>
     <lastmod>2025-10-27T12:21:18+01:00</lastmod>
   </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/tags/algoritmos/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/algoritmos/</loc>
     <lastmod>2025-10-25T00:14:04+02:00</lastmod>
   </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/tags/conte%C3%BAdo/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/conte%C3%BAdo/</loc>
     <lastmod>2025-10-25T00:14:04+02:00</lastmod>
   </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/posts/o-influencer-errado/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/o-influencer-errado/</loc>
     <lastmod>2025-10-25T00:14:04+02:00</lastmod>
   </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/tags/algorithmen/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/algorithmen/</loc>
     <lastmod>2025-10-25T00:10:58+02:00</lastmod>
   </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/posts/der-falsche-influencer/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/der-falsche-influencer/</loc>
     <lastmod>2025-10-25T00:10:58+02:00</lastmod>
   </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/tags/inhalt/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/inhalt/</loc>
     <lastmod>2025-10-25T00:10:58+02:00</lastmod>
   </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/posts/the-wrong-influencer/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/the-wrong-influencer/</loc>
     <lastmod>2025-10-25T00:04:29+02:00</lastmod>
   </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/tags/contenido/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/tags/contenido/</loc>
     <lastmod>2025-10-24T21:29:55+02:00</lastmod>
   </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/posts/el-influencer-equivocado/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/el-influencer-equivocado/</loc>
     <lastmod>2025-10-24T21:29:55+02:00</lastmod>
   </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/posts/brocolis-entre-os-donuts/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brocolis-entre-os-donuts/</loc>
     <lastmod>2025-10-24T01:05:32+02:00</lastmod>
   </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/posts/broccoli-among-donuts/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/broccoli-among-donuts/</loc>
     <lastmod>2025-10-24T00:55:19+02:00</lastmod>
   </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/posts/brokkoli-zwischen-donuts/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brokkoli-zwischen-donuts/</loc>
     <lastmod>2025-10-24T00:32:27+02:00</lastmod>
   </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/posts/brocoli-entre-donuts/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/posts/brocoli-entre-donuts/</loc>
     <lastmod>2025-10-23T22:52:36+02:00</lastmod>
   </url><url>
-    <loc>https://rgartneraudios.github.io/archivo-editorial-site/categories/</loc>
+    <loc>http://localhost:1313/archivo-editorial-site/categories/</loc>
   </url>
 </urlset>

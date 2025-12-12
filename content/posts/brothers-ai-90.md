@@ -38,7 +38,8 @@ BROTHERS AI Version 9.0 introduces significant hardware and connectivity improve
 
 A critical safety consideration is addressed: these hands-free, voice-activated devices significantly reduce accidents caused by smartphone screen distraction, both for pedestrians and drivers.
  RGartner
-![Foto de Rgartner](/static/images/rgartnerPhoto.png)
+ 
+{{< figure src="/images/rgartnerPhoto.png" alt="Foto de Rgartner" title="Foto de Rgartner" >}}
 
 
 ---
