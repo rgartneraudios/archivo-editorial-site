@@ -1,15 +1,8 @@
-baseURL = "https://rgartneraudios.github.io/archivo-editorial-site/"  # Puedes cambiarlo cuando tengas dominio
-languageCode = 'es'
-title = 'RGartner Audios Podcast Editorial'
-theme = 'PaperMod'
-
 baseURL = "https://rgartneraudios.github.io/archivo-editorial-site/"
 languageCode = 'es'
 title = 'RGartner Audios Podcast Editorial'
 theme = 'PaperMod'
-canonifyURLs = true    # ← AGREGA ESTA LÍNEA
-
-defaultContentLanguage = 'es'
+canonifyURLs = true
 
 defaultContentLanguage = 'es'
 
@@ -20,11 +13,9 @@ defaultContentLanguage = 'es'
 
 [params]
   env = 'production'
-  defaultTheme = 'dark'           # Modo oscuro por defecto
-  disableThemeToggle = false      # Permite cambiar entre claro/oscuro
-  ShowReadingTime = true          # Muestra tiempo estimado de lectura
-  ShowShareButtons = true         # Activa botones para compartir
-  ShowPostNavLinks = true         # Navegación entre posts
+  defaultTheme = 'dark'
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
   mainSections = ["posts"]
-  
-
