@@ -37,24 +37,17 @@ tags = ["federated-learning", "artificial-intelligence", "distributed-systems", 
 
 其中解决了一个关键的安全考虑：这些免提、声控设备显著减少了由智能手机屏幕分心导致的事故，无论是对行人和司机而言。
 
-RGartner
+{{< figure src="/images/rgartnerPhoto.png" alt="Foto de Rgartner" title="Rgartner" >}}
 
-==Page 1 OCR 结束==
-
-==Page 2 OCR 开始==
 
 **I. 新型 BROCAM 设备 (NEW BROCAM DEVICES)**
 
 **1. HALO-BROPHONE**
 
-<HALO BROPHONE 图片>
+{{< figure src="/images/HaloBROCAM2.png" alt="Halo BROCAM" title="Halo BROCAM 图片" >}}
 
 **描述 (Description):**
 一款便携式多功能设备，由徽章概念演变而来。它以优雅、紧凑的格式结合了通信、内容捕获和交互式显示。
-
-==Page 2 OCR 结束==
-
-==Page 3 OCR 开始==
 
 **物理特性 (Physical Characteristics):**
 
@@ -65,11 +58,7 @@ RGartner
 *   **Portability:** 可穿戴（带链/绳）或口袋大小
 *   **Battery:** 6-8小时续航
 
-<HALO BROPHONE 图片>
-
-==Page 3 OCR 结束==
-
-==Page 4 OCR 开始==
+{{< figure src="/images/HaloBROCAM.png" alt="Halo BROCAM" title="Halo BROCAM 图片" >}}
 
 **核心功能 (Key Functionalities):**
 
@@ -89,11 +78,7 @@ RGartner
 
 **2. TIARA-BROCAM (重新设计 - 铝带) (REDESIGNED - ALUMINUM BAND)**
 
-<TIARA-BROCAM 图片>
-
-==Page 4 OCR 结束==
-
-==Page 5 OCR 开始==
+{{< figure src="/images/RGartnerConcept.png" alt="Concepto RGartner" title="Concepto RGartner 图片" >}}
 
 **概念演进 (Concept Evolution):**
 **Tiara-BroCam** 采用更低调、更具现代感的铝带重新设计，摆脱了“服装配饰”的美学，转向适合公众使用的可穿戴技术设备。
@@ -131,10 +116,6 @@ RGartner
 *   关于物体、地点、人物的视觉查询（经同意）
 *   在 **backend mode** 中由 **BROHOME** 辅助导航
 
-==Page 5 OCR 结束==
-
-==Page 6 OCR 开始==
-
 **3. 安全考虑：事故预防 (SAFETY CONSIDERATION: ACCIDENT PREVENTION)**
 
 **相对于智能手机的关键优势 (Critical Advantage Over Smartphones):**
@@ -165,10 +146,6 @@ RGartner
 
 这种设计理念与 **BROTHERS AI** 的核心原则相符：技术增强人类能力，同时不损害在物理世界中的安全或在场感。
 
-==Page 6 OCR 结束==
-
-==Page 7 OCR 开始==
-
 **II. 连接架构 (CONNECTIVITY ARCHITECTURE)**
 
 **A. 按模式划分的数据流 (DATA FLOWS BY MODE)**
@@ -180,6 +157,8 @@ RGartner
 **Finger Type:** Broadcasting
 
 **流程 (Flow):**
+**Flow:**
+```
 机构/频道 (例如，Telam, CNN) [24/7]
 ↓
 FINGER BROADCASTING (认证合作伙伴)
@@ -193,16 +172,13 @@ VISION MODE 1 (按类别组织)
 BROTV (在 SmartTV 上显示)
 ↓
 USER (被动消费 - 频道切换)
+```
 
 **特点 (Characteristics):**
 
 *   最小化交互 (仅频道更改、音量)
 *   内容：新闻、天气、股票市场、机构频道
 *   **Monetization:** 集成在 **stream** 中的 **Mentions Ads level 0-1**
-
-==Page 7 OCR 结束==
-
-==Page 8 OCR 开始==
 
 **VISION MODE 1B: BROADCASTING INTERACTIVE**
 
@@ -211,6 +187,8 @@ USER (被动消费 - 频道切换)
 **Finger Type:** Broadcasting Interactive
 
 **流程 (Flow):**
+**Flow:**
+```
 USER 请求内容 (例如，“我想看烹饪视频”)
 ↓
 BROHOME AI queries
@@ -226,6 +204,7 @@ VISION MODE 1B (带控制：pause, like, comment)
 BROTV (在 SmartTV 上显示)
 ↓
 USER (高互动：pause, share, save)
+```
 
 **特点 (Characteristics):**
 
@@ -234,10 +213,6 @@ USER (高互动：pause, share, save)
 *   用户认证由 **BROCOM** 管理
 *   **Monetization:** 通过 **BROCOM** 进行订阅和微支付
 
-==Page 8 OCR 结束==
-
-==Page 9 OCR 开始==
-
 **VISION MODE 2: INTERACTIVE 3D MAP**
 
 **目的 (Purpose):** 带有 **Profile Cards** (商业、用户、事件) 的地理定位导航。
@@ -245,6 +220,8 @@ USER (高互动：pause, share, save)
 **Finger Type:** Responsive + Responsive Streamer
 
 **服务搜索流程 (Flow for Service Search):**
+**Flow:**
+```
 USER (在街上): “**BROHOME**，搜索附近的椰子油”
 ↓
 BROHOME AI → BROCAT Commerce
@@ -264,8 +241,12 @@ BROCOM (**digital escrow**: 保持付款 24h)
 USER 取货 → Confirmation
 ↓
 BROCOM 释放付款给商家
+```
 
 **用户直播流程 (Flow for User Livestream):**
+
+**Flow:**
+```
 USER 2 使用 **Halo-BroPhone** 激活 **stream**
 ↓
 直接信号到 **BROCAT Stream** (不通过 BROMAC)
@@ -279,11 +260,7 @@ USER 1 发现 **stream** → “Zoom In”
 BROTV (全屏播放 **stream**)
 ↓
 USER 1 可以：comment, donate QUERY, report
-
-==Page 9 OCR 结束==
-
-==Page 10 OCR 开始==
-
+```
 **特点 (Characteristics):**
 
 *   全球城市自由导航 (3D)
@@ -300,6 +277,8 @@ USER 1 可以：comment, donate QUERY, report
 **目的 (Purpose):** 在街上提供协助，无需查看屏幕。
 
 **流程 (Flow):**
+**Flow:**
+```
 USER (步行): “**BROHOME**，带我去最近的药房”
 ↓
 BROHOME AI → BROCAT Health
@@ -314,6 +293,7 @@ BROHOME 通过 **Tiara-BroCam** 语音回复:
 “药房在 300 米外。50 米后右转”
 ↓
 通过音频进行 GPS 导航 (无需看屏幕)
+```
 
 **特点 (Characteristics):**
 
@@ -322,15 +302,13 @@ BROHOME 通过 **Tiara-BroCam** 语音回复:
 *   无活动显示 (节省电池，更高隐私)
 *   **Safety enhancement:** 保持充分的环境意识
 
-==Page 10 OCR 结束==
-
-==Page 11 OCR 开始==
-
 **BROVISION LINK: PRIVATE COMMUNICATION**
 
 **目的 (Purpose):** USER 和 **BROHOME** 之间的私人视频/音频通话 (**Meet/Zoom-like**)。
 
 **流程 (Flow):**
+**Flow:**
+```
 USER (在街上): “**BROHOME**，我需要私下和你谈谈”
 ↓
 **Tiara-BroCam** 或 **Halo-BroPhone** 激活 **BROVISION LINK**
@@ -344,6 +322,7 @@ GLASS BOX → BROHOME AI
 私人对话 (音频/视频)
 ↓
 可选：**BROHOME** 将元数据保存在 **ISU USER MEMORY** 中
+```
 
 **特点 (Characteristics):**
 
@@ -375,18 +354,27 @@ GLASS BOX → BROHOME AI
 [场景: Patrick, 28岁, 巴塞罗那游客, 站在圣家族大教堂前]
 
 **BROHOME AI:** Patrick，你现在有空吗？
+
 **Patrick:** 是的，告诉我。
+
 **BROHOME AI:** 有一个图像请求。想赚 5 欧元吗？
+
 **Patrick:** 一个请求？想！我该去哪里？
-**BROHOME AI:** 如果你就在圣家族大教堂前...
+
+**BROHOME AI:** 如果你就在圣家族大教堂前…
+
 **Patrick:** 是的，圣家族大教堂，我就在它前面。
+
 **BROHOME AI:** 很好，我已经激活了 Cam。只需放下 **hinge** 使其朝前并对准。
 
 [Patrick 用 **adjustable hinge** 放下他的 **Tiara-BroCam**。绿色 **LED** 亮起。摄像头聚焦于立面]
 
 **BROHOME AI:** 很好。不要动。咔嚓! (**CLICK!**)
+
 **Patrick:** (微笑着) “Vincent”... 我们高兴吗？
+
 **BROHOME AI:** 我们很高兴！Patrick，你的 **BROCOM piggy bank** 里已经有 5 欧元了。
+
 
 [幕后花絮 (Behind the Scenes)]
 
@@ -397,10 +385,6 @@ GLASS BOX → BROHOME AI
 **BROCOM** 充当了 **digital escrow**：建筑师支付的 5 欧元被托管。在确认图像正确后，**BROCOM** 在 24 小时后将付款释放给了 Patrick。
 
 **结果 (Result):** Patrick 因为在正确的时间出现在正确的地点而赚了钱。他不是一名专业摄影师，但他的位置具有价值。
-
-==Page 12 OCR 结束==
-
-==Page 13 OCR 开始==
 
 [最后反思 (Final Reflection)]
 
