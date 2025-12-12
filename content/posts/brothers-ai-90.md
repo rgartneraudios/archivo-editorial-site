@@ -648,12 +648,9 @@ BROCOM (digital escrow: mantiene el pago 24h)
 USER recoge producto → Confirmation
   ↓
 BROCOM libera el pago al negocio
-
 ```
 
-
 **Flow for User Livestream:**
-
 **Flow:**
 ```
 
