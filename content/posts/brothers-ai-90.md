@@ -649,7 +649,14 @@ USER recoge producto → Confirmation
   ↓
 BROCOM libera el pago al negocio
 
+```
+
+
 **Flow for User Livestream:**
+
+**Flow:**
+```
+
 USER 2 activa **stream** con **Halo-BroPhone**
   ↓
 Señal directa a BROCAT Stream (no pasa por BROMAC)
