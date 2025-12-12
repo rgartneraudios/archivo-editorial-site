@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Youtube on RGartner Audios Podcast Editorial</title>
-    <link>http://localhost:1313/archivo-editorial-site/tags/youtube/</link>
+    <link>https://rgartneraudios.github.io/archivo-editorial-site/tags/youtube/</link>
     <description>Recent content in Youtube on RGartner Audios Podcast Editorial</description>
     <generator>Hugo -- 0.152.1</generator>
     <language>es</language>
     <lastBuildDate>Tue, 18 Nov 2025 23:06:31 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/archivo-editorial-site/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rgartneraudios.github.io/archivo-editorial-site/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Gran Migración de la Atención_ Del Contenido a la IA</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/migraci%C3%B3n-de-la-atenci%C3%B3n/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/migraci%C3%B3n-de-la-atenci%C3%B3n/</link>
       <pubDate>Tue, 18 Nov 2025 23:06:31 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/migraci%C3%B3n-de-la-atenci%C3%B3n/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/migraci%C3%B3n-de-la-atenci%C3%B3n/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;18 de November, 2025&lt;/span&gt;
@@ -36,11 +36,11 @@
     </item>
     <item>
       <title>The Free University in Your Pocket: How to Learn Anything with AI</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/the-free-university/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/the-free-university/</link>
       <pubDate>Sun, 02 Nov 2025 21:26:18 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/the-free-university/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/the-free-university/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;2 de November, 2025&lt;/span&gt;
@@ -64,11 +64,11 @@
     </item>
     <item>
       <title>Mastodon: Between Precarity and Asian Potential</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/between-precarity-and-asian-potential/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/between-precarity-and-asian-potential/</link>
       <pubDate>Wed, 29 Oct 2025 19:49:19 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/between-precarity-and-asian-potential/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/between-precarity-and-asian-potential/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;29 de October, 2025&lt;/span&gt;
@@ -93,11 +93,11 @@
     </item>
     <item>
       <title>What is the Fediverse, Mastodon, and Decentralized Applications? (Various languages)</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/what-is-the-fediverse/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/what-is-the-fediverse/</link>
       <pubDate>Mon, 27 Oct 2025 12:21:18 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/what-is-the-fediverse/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/what-is-the-fediverse/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;27 de October, 2025&lt;/span&gt;
@@ -122,11 +122,11 @@
     </item>
     <item>
       <title>O influencer errado: Por que as campanhas publicitárias fracassam</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/o-influencer-errado/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/o-influencer-errado/</link>
       <pubDate>Sat, 25 Oct 2025 00:14:04 +0200</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/o-influencer-errado/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/o-influencer-errado/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;25 de October, 2025&lt;/span&gt;
@@ -140,11 +140,11 @@
     </item>
     <item>
       <title>Der falsche Influencer: Warum Werbekampagnen scheitern</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/der-falsche-influencer/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/der-falsche-influencer/</link>
       <pubDate>Sat, 25 Oct 2025 00:10:58 +0200</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/der-falsche-influencer/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/der-falsche-influencer/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;25 de October, 2025&lt;/span&gt;
@@ -158,11 +158,11 @@
     </item>
     <item>
       <title>The Wrong Influencer: Why Advertising Campaigns Fail</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/the-wrong-influencer/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/the-wrong-influencer/</link>
       <pubDate>Sat, 25 Oct 2025 00:04:29 +0200</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/the-wrong-influencer/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/the-wrong-influencer/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;25 de October, 2025&lt;/span&gt;
@@ -176,11 +176,11 @@
     </item>
     <item>
       <title>El influencer equivocado: Por qué fracasan las campañas publicitarias</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/el-influencer-equivocado/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/el-influencer-equivocado/</link>
       <pubDate>Fri, 24 Oct 2025 21:29:55 +0200</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/el-influencer-equivocado/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/el-influencer-equivocado/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;24 de October, 2025&lt;/span&gt;
@@ -194,11 +194,11 @@
     </item>
     <item>
       <title>O brócolis entre os donuts: O desconforto do conteúdo sério no YouTube</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brocolis-entre-os-donuts/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brocolis-entre-os-donuts/</link>
       <pubDate>Fri, 24 Oct 2025 01:05:32 +0200</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brocolis-entre-os-donuts/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brocolis-entre-os-donuts/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;24 de October, 2025&lt;/span&gt;
@@ -208,7 +208,7 @@
 &lt;p&gt;Para quem cria conteúdo que convida à reflexão, há uma verdade incômoda a reconhecer: competimos em um espaço feito para outra coisa.&lt;/p&gt;
 &lt;p&gt;Não é que o YouTube seja ruim. É uma das melhores plataformas para criar. O problema é mais sutil: nosso conteúdo precisa dividir o mesmo feed com decotes, minissaias, rostos de espanto nas thumbnails e iscas de clique vazias.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/archivo-editorial-site/images/familia-en-el-salon-mirando-tv-abuelos-y-nietos.jpg&#34;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/familia-en-el-salon-mirando-tv-abuelos-y-nietos.jpg&#34;
          alt=&#34;Família assistindo TV&#34;/&gt; 
 &lt;/figure&gt;
 
@@ -216,11 +216,11 @@
     </item>
     <item>
       <title>Broccoli Among Donuts: The Discomfort of Serious Content on YouTube</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/broccoli-among-donuts/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/broccoli-among-donuts/</link>
       <pubDate>Fri, 24 Oct 2025 00:55:19 +0200</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/broccoli-among-donuts/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/broccoli-among-donuts/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;24 de October, 2025&lt;/span&gt;
@@ -230,7 +230,7 @@
 &lt;p&gt;For those of us who create content that invites reflection, there’s an uncomfortable truth to face: we’re competing in a space designed for something else.&lt;/p&gt;
 &lt;p&gt;It’s not that YouTube is bad. It’s one of the best platforms for creators. The issue is subtler: our content has to share the same feed with cleavage, miniskirts, exaggerated thumbnail expressions, and empty clickbait.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/archivo-editorial-site/images/familia-en-el-salon-mirando-tv-abuelos-y-nietos.jpg&#34;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/familia-en-el-salon-mirando-tv-abuelos-y-nietos.jpg&#34;
          alt=&#34;Family watching TV&#34;/&gt; 
 &lt;/figure&gt;
 
@@ -238,11 +238,11 @@
     </item>
     <item>
       <title>Brokkoli zwischen Donuts: Das Unbehagen, das bleibt</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brokkoli-zwischen-donuts/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brokkoli-zwischen-donuts/</link>
       <pubDate>Fri, 24 Oct 2025 00:32:27 +0200</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brokkoli-zwischen-donuts/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brokkoli-zwischen-donuts/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;24 de October, 2025&lt;/span&gt;
@@ -252,7 +252,7 @@
 &lt;p&gt;Brokkoli zwischen Donuts ist nicht nur ein visuelles Missverständnis. Es ist ein Symbol für das Unbehagen, das entsteht, wenn man versucht, Inhalte mit Tiefe in Plattformen zu platzieren, die auf Zucker und Geschwindigkeit programmiert sind.&lt;/p&gt;
 &lt;p&gt;YouTube liebt Donuts: schnelle Schnitte, bunte Verpackung, süße Versprechen. Aber was passiert, wenn du Brokkoli servierst? Etwas Grünes, Komplexes, das nicht sofort schmeckt, aber nährt?&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/archivo-editorial-site/images/familia-en-el-salon-mirando-tv-abuelos-y-nietos.jpg&#34;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/familia-en-el-salon-mirando-tv-abuelos-y-nietos.jpg&#34;
          alt=&#34;Familie vor dem Fernseher&#34;/&gt; 
 &lt;/figure&gt;
 
@@ -260,11 +260,11 @@
     </item>
     <item>
       <title>El brócoli entre los donuts: La incomodidad del contenido serio en YouTube</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brocoli-entre-donuts/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brocoli-entre-donuts/</link>
       <pubDate>Thu, 23 Oct 2025 22:52:36 +0200</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brocoli-entre-donuts/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brocoli-entre-donuts/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;23 de October, 2025&lt;/span&gt;
@@ -274,7 +274,7 @@
 &lt;p&gt;Para quienes hacemos contenido que invita a reflexionar, hay algo incómodo que reconocer: competimos en un espacio diseñado para otra cosa.&lt;/p&gt;
 &lt;p&gt;No es que YouTube sea malo. Es una de las mejores plataformas para crear. El problema es más sutil: nuestro contenido debe compartir el mismo feed con escotes, minifaldas, caras de asombro en thumbnails y clickbaits vacíos.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/archivo-editorial-site/images/familia-en-el-salon-mirando-tv-abuelos-y-nietos.jpg&#34;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/familia-en-el-salon-mirando-tv-abuelos-y-nietos.jpg&#34;
          alt=&#34;Familia mirando TV&#34;/&gt; 
 &lt;/figure&gt;
 

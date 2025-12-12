@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AI-Strategy on RGartner Audios Podcast Editorial</title>
-    <link>http://localhost:1313/archivo-editorial-site/tags/ai-strategy/</link>
+    <link>https://rgartneraudios.github.io/archivo-editorial-site/tags/ai-strategy/</link>
     <description>Recent content in AI-Strategy on RGartner Audios Podcast Editorial</description>
     <generator>Hugo -- 0.152.1</generator>
     <language>es</language>
     <lastBuildDate>Fri, 12 Dec 2025 17:07:54 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/archivo-editorial-site/tags/ai-strategy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rgartneraudios.github.io/archivo-editorial-site/tags/ai-strategy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BROTHERS AI - VERSION 9.0 (中国人)</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-90ch/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-90ch/</link>
       <pubDate>Fri, 12 Dec 2025 17:07:54 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-90ch/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-90ch/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;12 de December, 2025&lt;/span&gt;
@@ -42,11 +42,11 @@
     </item>
     <item>
       <title>BROTHERS AI - VERSION 9.0 English/Español</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-90/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-90/</link>
       <pubDate>Fri, 12 Dec 2025 16:59:31 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-90/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-90/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;12 de December, 2025&lt;/span&gt;
@@ -78,11 +78,11 @@
     </item>
     <item>
       <title>BROTHERS AI - VERSION 8.0 (中国人)</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-80ch/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-80ch/</link>
       <pubDate>Wed, 10 Dec 2025 20:53:31 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-80ch/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-80ch/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;10 de December, 2025&lt;/span&gt;
@@ -234,11 +234,11 @@ BROTHERS AI 是一个人工智能代理的梦之队，它将提升您的生活�
     </item>
     <item>
       <title>BROTHERS AI - VERSION 8.0 English/Español</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-80/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-80/</link>
       <pubDate>Wed, 10 Dec 2025 18:59:25 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-80/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-80/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;10 de December, 2025&lt;/span&gt;
@@ -270,11 +270,11 @@ I was inspired by a video of Ilya Zurkskeberg talking about the search for AGI. 
     </item>
     <item>
       <title>BROTHERS AI - VERSION 7.0 中文</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-70ch/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-70ch/</link>
       <pubDate>Wed, 10 Dec 2025 13:11:04 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-70ch/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-70ch/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;10 de December, 2025&lt;/span&gt;
@@ -304,11 +304,11 @@ I was inspired by a video of Ilya Zurkskeberg talking about the search for AGI. 
     </item>
     <item>
       <title>BROTHERS AI - VERSION 7.0</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-70/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-70/</link>
       <pubDate>Tue, 09 Dec 2025 23:27:09 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-70/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-70/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;9 de December, 2025&lt;/span&gt;
@@ -336,11 +336,11 @@ I was inspired by a video of Ilya Zurkskeberg talking about the search for AGI. 
     </item>
     <item>
       <title>BROTHERS AI - VERSION 6.0-中国人</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-60ch/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-60ch/</link>
       <pubDate>Mon, 08 Dec 2025 21:08:21 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-60ch/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-60ch/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;8 de December, 2025&lt;/span&gt;
@@ -365,11 +365,11 @@ I was inspired by a video of Ilya Zurkskeberg talking about the search for AGI. 
     </item>
     <item>
       <title>BROTHERS AI - VERSION 6.0</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-60/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-60/</link>
       <pubDate>Mon, 08 Dec 2025 19:59:44 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-60/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-60/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;8 de December, 2025&lt;/span&gt;
@@ -397,11 +397,11 @@ I was inspired by a video of Ilya Zurkskeberg talking about the search for AGI. 
     </item>
     <item>
       <title>BROTHERS AI - VERSION 5.0</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-50/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-50/</link>
       <pubDate>Sun, 07 Dec 2025 16:41:01 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-50/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-50/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;7 de December, 2025&lt;/span&gt;
@@ -433,11 +433,11 @@ I was inspired by a video of Ilya Zurkskeberg talking about the search for AGI. 
     </item>
     <item>
       <title>BROTHERS AI - VERSION 4.0</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-40/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-40/</link>
       <pubDate>Sun, 07 Dec 2025 16:26:12 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-40/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-40/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;7 de December, 2025&lt;/span&gt;
@@ -469,11 +469,11 @@ I was inspired by a video of Ilya Zurkskeberg talking about the search for AGI. 
     </item>
     <item>
       <title>BROTHERS AI - VERSION 3.0</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-30/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-30/</link>
       <pubDate>Sat, 06 Dec 2025 21:15:05 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-30/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-30/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;6 de December, 2025&lt;/span&gt;
@@ -504,11 +504,11 @@ I was inspired by a video of Ilya Zurkskeberg talking about the search for AGI. 
     </item>
     <item>
       <title>BROTHERS AI - Versión 2.0</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-20/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-20/</link>
       <pubDate>Fri, 05 Dec 2025 01:43:44 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brothers-ai-20/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai-20/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;5 de December, 2025&lt;/span&gt;
@@ -538,11 +538,11 @@ I was inspired by a video of Ilya Zurkskeberg talking about the search for AGI. 
     </item>
     <item>
       <title>Brothers AI: Versión 1.0</title>
-      <link>http://localhost:1313/archivo-editorial-site/posts/brothers-ai/</link>
+      <link>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai/</link>
       <pubDate>Tue, 02 Dec 2025 12:21:01 +0100</pubDate>
-      <guid>http://localhost:1313/archivo-editorial-site/posts/brothers-ai/</guid>
+      <guid>https://rgartneraudios.github.io/archivo-editorial-site/posts/brothers-ai/</guid>
       <description>&lt;div class=&#34;post-header-author&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
+    &lt;img src=&#34;https://rgartneraudios.github.io/archivo-editorial-site/images/logo.png&#34; alt=&#34;RGartner&#34;&gt;
     &lt;div class=&#34;post-header-author-info&#34;&gt;
         &lt;span class=&#34;post-header-author-name&#34;&gt;RGartner&lt;/span&gt;
         &lt;span class=&#34;post-header-date&#34;&gt;2 de December, 2025&lt;/span&gt;
