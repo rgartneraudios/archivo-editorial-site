@@ -37,7 +37,7 @@ tags = ["federated-learning", "artificial-intelligence", "distributed-systems", 
 BROTHERS AI Version 9.0 introduces significant hardware and connectivity improvements to the ecosystem. This version presents two redesigned devices: **Halo-BroPhone** (evolution of the medallion concept) and **Tiara-BroCam** (with aluminum band design), along with a comprehensive connectivity architecture that includes VISION modes (1, 1B, 2, 3) and **BROVISION LINK** for private communications. The document also introduces **BroFlow**, a narrative section showcasing real-world use cases through episodic storytelling.
 
 A critical safety consideration is addressed: these hands-free, voice-activated devices significantly reduce accidents caused by smartphone screen distraction, both for pedestrians and drivers.
- RGartner
+
  
 {{< figure src="/images/rgartnerPhoto.png" alt="Foto de Rgartner" title="Rgartner" >}}
 
@@ -435,7 +435,6 @@ BROTHERS AI Version 9.0 introduce mejoras significativas de hardware y conectivi
 
 Se aborda una consideración crítica de seguridad: estos dispositivos manos libres y activados por voz reducen significativamente los accidentes causados por la distracción de la pantalla del smartphone, tanto para peatones como para conductores.
 
-RGartner
 
 {{< figure src="/images/rgartnerPhoto.png" alt="Foto de Rgartner" title="Rgartner" >}}
 
@@ -560,6 +559,7 @@ Esta filosofía de diseño se alinea con el principio fundamental de **BROTHERS 
 **Finger Type:** Broadcasting
 
 **Flow:**
+```
 Agencia/Canal (ej., Telam, CNN) [24/7]
   ↓
 FINGER BROADCASTING (Socio Certificado)
@@ -573,6 +573,9 @@ VISION MODE 1 (organizado por categorías)
 BROTV (visualización en SmartTV)
   ↓
 USER (consumo pasivo - cambio de canal)
+
+```
+
 
 **Características:**
 
@@ -588,6 +591,7 @@ USER (consumo pasivo - cambio de canal)
 **Finger Type:** Broadcasting Interactive
 
 **Flow:**
+```
 USER solicita contenido (ej., "Quiero ver videos de cocina")
   ↓
 BROHOME AI queries
@@ -604,6 +608,9 @@ BROTV (visualización en SmartTV)
   ↓
 USER (alta interacción: pause, share, save)
 
+```
+
+
 **Características:**
 
 *   Alta interacción (**pause, rewind, like, comment**)
@@ -619,6 +626,9 @@ USER (alta interacción: pause, share, save)
 **Finger Type:** Responsive + Responsive Streamer
 
 **Flow for Service Search:**
+**Flow:**
+```
+
 USER (en la calle): "BROHOME, busca aceite de coco cerca"
   ↓
 BROHOME AI → BROCAT Commerce
@@ -654,6 +664,9 @@ BROTV (reproduce stream en pantalla completa)
   ↓
 USER 1 puede: comment, donate QUERY, report
 
+```
+
+
 
 **Características:**
 
@@ -671,6 +684,7 @@ USER 1 puede: comment, donate QUERY, report
 **Propósito:** Asistencia en la calle sin necesidad de mirar una pantalla.
 
 **Flow:**
+```
 USER (caminando): "BROHOME, guíame a la farmacia más cercana"
   ↓
 BROHOME AI → BROCAT Health
@@ -685,6 +699,8 @@ BROHOME responde por voz en Tiara-BroCam:
 "Farmacia a 300m. Gira a la derecha en 50m"
   ↓
 Navegación GPS por audio (sin mirar la pantalla)
+
+```
 
 **Características:**
 
