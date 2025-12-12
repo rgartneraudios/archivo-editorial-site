@@ -37,12 +37,16 @@ tags = ["federated-learning", "artificial-intelligence", "distributed-systems", 
 BROTHERS AI Version 9.0 introduces significant hardware and connectivity improvements to the ecosystem. This version presents two redesigned devices: **Halo-BroPhone** (evolution of the medallion concept) and **Tiara-BroCam** (with aluminum band design), along with a comprehensive connectivity architecture that includes VISION modes (1, 1B, 2, 3) and **BROVISION LINK** for private communications. The document also introduces **BroFlow**, a narrative section showcasing real-world use cases through episodic storytelling.
 
 A critical safety consideration is addressed: these hands-free, voice-activated devices significantly reduce accidents caused by smartphone screen distraction, both for pedestrians and drivers.
-
+ RGartner
+</images/rgartnerPhoto.png>
+               
 ---
 
 ## I. NEW BROCAM DEVICES
 
 ### 1. HALO-BROPHONE
+
+</images/HaloBROCAM2.png>
 
 **Description:**  
 A portable multifunctional device that evolves from the medallion concept. It combines communication, content capture, and interactive display in an elegant, compact format.
@@ -54,6 +58,8 @@ A portable multifunctional device that evolves from the medallion concept. It co
 - **OLED Touchscreen Display:** Central screen for visualization and control
 - **Portability:** Wearable (with chain/cord) or pocket-sized
 - **Battery:** 6-8h autonomy
+
+</images/HaloBROCAM.png>
 
 **Key Functionalities:**
 - ✅ **Professional selfies** with controllable LED lighting
@@ -72,6 +78,8 @@ A portable multifunctional device that evolves from the medallion concept. It co
 ---
 
 ### 2. TIARA-BROCAM (REDESIGNED - ALUMINUM BAND)
+
+</images/RGartnerConcept.png>
 
 **Concept Evolution:**  
 The Tiara-BroCam is redesigned with a more discreet, contemporary **aluminum band**, moving away from the "costume accessory" aesthetic toward a wearable tech device suitable for public use.
@@ -407,6 +415,7 @@ This version consolidates BROTHERS AI as a cohesive, fraternal ecosystem where t
 
 ***
 ** Español
+
 **BROTHERS AI - VERSION 9.0**
 
 **Autor:** RGartner
@@ -423,23 +432,18 @@ BROTHERS AI Version 9.0 introduce mejoras significativas de hardware y conectivi
 Se aborda una consideración crítica de seguridad: estos dispositivos manos libres y activados por voz reducen significativamente los accidentes causados por la distracción de la pantalla del smartphone, tanto para peatones como para conductores.
 
 RGartner
+</images/rgartnerPhoto.png>
 
-==Fin de OCR para la página 1==
-
-==Inicio de OCR para la página 2==
 
 **I. NUEVOS DISPOSITIVOS BROCAM**
 
 **1. HALO-BROPHONE**
 
-<Imagen de HALO BROPHONE>
+</images/HaloBROCAM2.png>
 
 **Descripción:**
 Un dispositivo portátil multifuncional que evoluciona del concepto de medallón. Combina comunicación, captura de contenido y pantalla interactiva en un formato elegante y compacto.
 
-==Fin de OCR para la página 2==
-
-==Inicio de OCR para la página 3==
 
 **Características Físicas:**
 
@@ -450,11 +454,8 @@ Un dispositivo portátil multifuncional que evoluciona del concepto de medallón
 *   **Portabilidad:** Llevable (con cadena/cordón) o de bolsillo
 *   **Batería:** 6-8h de autonomía
 
-<Imagen de HALO BROPHONE>
+</images/HaloBROCAM.png>
 
-==Fin de OCR para la página 3==
-
-==Inicio de OCR para la página 4==
 
 **Funcionalidades Clave:**
 
@@ -474,11 +475,7 @@ Un dispositivo portátil multifuncional que evoluciona del concepto de medallón
 
 **2. TIARA-BROCAM (REDISGNADO - BANDA DE ALUMINIO)**
 
-<Imagen de TIARA-BROCAM>
-
-==Fin de OCR para la página 4==
-
-==Inicio de OCR para la página 5==
+</images/RGartnerConcept.png>
 
 **Evolución del Concepto:**
 La **Tiara-BroCam** es rediseñada con una banda de aluminio más discreta y contemporánea, alejándose de la estética de "accesorio de disfraz" hacia un dispositivo de tecnología **wearable** apto para uso público.
@@ -516,9 +513,6 @@ La **Tiara-BroCam** es rediseñada con una banda de aluminio más discreta y con
 *   Consultas visuales sobre objetos, lugares, personas (con consentimiento)
 *   Navegación asistida por **BROHOME** en **backend mode**
 
-==Fin de OCR para la página 5==
-
-==Inicio de OCR para la página 6==
 
 **3. CONSIDERACIÓN DE SEGURIDAD: PREVENCIÓN DE ACCIDENTES**
 
@@ -550,9 +544,6 @@ Tanto **Tiara-BroCam** como **Halo-BroPhone** están diseñados para eliminar la
 
 Esta filosofía de diseño se alinea con el principio fundamental de **BROTHERS AI** de tecnología que mejora la capacidad humana sin comprometer la seguridad o la presencia en el mundo físico.
 
-==Fin de OCR para la página 6==
-
-==Inicio de OCR para la página 7==
 
 **II. ARQUITECTURA DE CONECTIVIDAD**
 
@@ -619,9 +610,6 @@ USER (alta interacción: pause, share, save)
 *   Autenticación de usuario gestionada por **BROCOM**
 *   Monetización: suscripciones y micropagos vía **BROCOM**
 
-==Fin de OCR para la página 8==
-
-==Inicio de OCR para la página 9==
 
 **VISION MODE 2: INTERACTIVE 3D MAP**
 
@@ -665,9 +653,6 @@ BROTV (reproduce stream en pantalla completa)
 ↓
 USER 1 puede: comment, donate QUERY, report
 
-==Fin de OCR para la página 9==
-
-==Inicio de OCR para la página 10==
 
 **Características:**
 
@@ -707,9 +692,6 @@ Navegación GPS por audio (sin mirar la pantalla)
 *   Sin display activo (ahorro de batería, mayor privacidad)
 *   **Safety enhancement:** Mantenimiento de la plena conciencia ambiental
 
-==Fin de OCR para la página 10==
-
-==Inicio de OCR para la página 11==
 
 **BROVISION LINK: PRIVATE COMMUNICATION**
 
@@ -748,9 +730,6 @@ Opcional: BROHOME guarda metadatos en **ISU USER MEMORY**
 | **Responsive** | On-demand (query) | Local services | Pharmacies, restaurants, stores |
 | **Responsive Streamer** | On-demand (livestream) | Users streaming | Vlogs, live events |
 
-==Fin de OCR para la página 11==
-
-==Inicio de OCR para la página 12==
 
 **III. BROFLOW: HISTORIAS DEL ECOSISTEMA**
 
@@ -783,9 +762,6 @@ Un arquitecto en Tokio necesitaba una fotografía actual de la fachada de la Sag
 
 **Resultado:** Patrick ganó dinero por estar en el lugar correcto en el momento adecuado. No es un fotógrafo profesional, pero su ubicación tenía valor.
 
-==Fin de OCR para la página 12==
-
-==Inicio de OCR para la página 13==
 
 [Reflexión Final]
 
