@@ -3,6 +3,14 @@ languageCode = 'es'
 title = 'RGartner Audios Podcast Editorial'
 theme = 'PaperMod'
 
+baseURL = "https://rgartneraudios.github.io/archivo-editorial-site/"
+languageCode = 'es'
+title = 'RGartner Audios Podcast Editorial'
+theme = 'PaperMod'
+canonifyURLs = true    # ← AGREGA ESTA LÍNEA
+
+defaultContentLanguage = 'es'
+
 defaultContentLanguage = 'es'
 
 [languages]
