@@ -48,7 +48,7 @@ A critical safety consideration is addressed: these hands-free, voice-activated 
 
 ### 1. HALO-BROPHONE
 
-</images/HaloBROCAM2.png>
+{{< figure src="/images/HaloBROCAM2.png" alt="Halo BROCAM" title="Halo BROCAM" >}}
 
 **Description:**  
 A portable multifunctional device that evolves from the medallion concept. It combines communication, content capture, and interactive display in an elegant, compact format.
@@ -61,7 +61,7 @@ A portable multifunctional device that evolves from the medallion concept. It co
 - **Portability:** Wearable (with chain/cord) or pocket-sized
 - **Battery:** 6-8h autonomy
 
-</images/HaloBROCAM.png>
+{{< figure src="/images/HaloBROCAM.png" alt="Halo BROCAM" title="Halo BROCAM" >}}
 
 **Key Functionalities:**
 - ✅ **Professional selfies** with controllable LED lighting
@@ -81,7 +81,8 @@ A portable multifunctional device that evolves from the medallion concept. It co
 
 ### 2. TIARA-BROCAM (REDESIGNED - ALUMINUM BAND)
 
-</images/RGartnerConcept.png>
+
+{{< figure src="/images/RGartnerConcept.png" alt="Concepto RGartner" title="Concepto RGartner" >}}
 
 **Concept Evolution:**  
 The Tiara-BroCam is redesigned with a more discreet, contemporary **aluminum band**, moving away from the "costume accessory" aesthetic toward a wearable tech device suitable for public use.
@@ -434,14 +435,14 @@ BROTHERS AI Version 9.0 introduce mejoras significativas de hardware y conectivi
 Se aborda una consideración crítica de seguridad: estos dispositivos manos libres y activados por voz reducen significativamente los accidentes causados por la distracción de la pantalla del smartphone, tanto para peatones como para conductores.
 
 RGartner
-</images/rgartnerPhoto.png>
 
+{{< figure src="/images/rgartnerPhoto.png" alt="Foto de Rgartner" title="Foto de Rgartner" >}}
 
 **I. NUEVOS DISPOSITIVOS BROCAM**
 
 **1. HALO-BROPHONE**
 
-</images/HaloBROCAM2.png>
+{{< figure src="/images/HaloBROCAM2.png" alt="Halo BROCAM" title="Halo BROCAM" >}}
 
 **Descripción:**
 Un dispositivo portátil multifuncional que evoluciona del concepto de medallón. Combina comunicación, captura de contenido y pantalla interactiva en un formato elegante y compacto.
@@ -456,7 +457,7 @@ Un dispositivo portátil multifuncional que evoluciona del concepto de medallón
 *   **Portabilidad:** Llevable (con cadena/cordón) o de bolsillo
 *   **Batería:** 6-8h de autonomía
 
-</images/HaloBROCAM.png>
+{{< figure src="/images/HaloBROCAM.png" alt="Halo BROCAM" title="Halo BROCAM" >}}
 
 
 **Funcionalidades Clave:**
@@ -477,7 +478,7 @@ Un dispositivo portátil multifuncional que evoluciona del concepto de medallón
 
 **2. TIARA-BROCAM (REDISGNADO - BANDA DE ALUMINIO)**
 
-</images/RGartnerConcept.png>
+{{< figure src="/images/RGartnerConcept.png" alt="Concepto RGartner" title="Concepto RGartner" >}}
 
 **Evolución del Concepto:**
 La **Tiara-BroCam** es rediseñada con una banda de aluminio más discreta y contemporánea, alejándose de la estética de "accesorio de disfraz" hacia un dispositivo de tecnología **wearable** apto para uso público.
