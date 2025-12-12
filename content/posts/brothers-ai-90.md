@@ -39,7 +39,7 @@ BROTHERS AI Version 9.0 introduces significant hardware and connectivity improve
 A critical safety consideration is addressed: these hands-free, voice-activated devices significantly reduce accidents caused by smartphone screen distraction, both for pedestrians and drivers.
  RGartner
  
-{{< figure src="/images/rgartnerPhoto.png" alt="Foto de Rgartner" title="Foto de Rgartner" >}}
+{{< figure src="/images/rgartnerPhoto.png" alt="Foto de Rgartner" title="Rgartner" >}}
 
 
 ---
@@ -417,7 +417,8 @@ This version consolidates BROTHERS AI as a cohesive, fraternal ecosystem where t
 
 
 ***
-** Español
+
+*Español
 
 **BROTHERS AI - VERSION 9.0**
 
@@ -436,7 +437,7 @@ Se aborda una consideración crítica de seguridad: estos dispositivos manos lib
 
 RGartner
 
-{{< figure src="/images/rgartnerPhoto.png" alt="Foto de Rgartner" title="Foto de Rgartner" >}}
+{{< figure src="/images/rgartnerPhoto.png" alt="Foto de Rgartner" title="Rgartner" >}}
 
 **I. NUEVOS DISPOSITIVOS BROCAM**
 
@@ -560,17 +561,17 @@ Esta filosofía de diseño se alinea con el principio fundamental de **BROTHERS 
 
 **Flow:**
 Agencia/Canal (ej., Telam, CNN) [24/7]
-↓
+  ↓
 FINGER BROADCASTING (Socio Certificado)
-↓
+  ↓
 BROCAT News/Entertainment (categorización)
-↓
+  ↓
 ARTUR AI (auditoría de calidad)
-↓
+  ↓
 VISION MODE 1 (organizado por categorías)
-↓
+  ↓
 BROTV (visualización en SmartTV)
-↓
+  ↓
 USER (consumo pasivo - cambio de canal)
 
 **Características:**
@@ -579,9 +580,6 @@ USER (consumo pasivo - cambio de canal)
 *   Contenido: noticias, clima, mercado de valores, canales institucionales
 *   Monetización: Menciones Ads nivel 0-1 integrados en el **stream**
 
-==Fin de OCR para la página 7==
-
-==Inicio de OCR para la página 8==
 
 **VISION MODE 1B: BROADCASTING INTERACTIVE**
 
@@ -591,19 +589,19 @@ USER (consumo pasivo - cambio de canal)
 
 **Flow:**
 USER solicita contenido (ej., "Quiero ver videos de cocina")
-↓
+  ↓
 BROHOME AI queries
-↓
+  ↓
 PORT AI → YouTube/TikTok API
-↓
+  ↓
 BROCAT Entertainment (categorización)
-↓
+  ↓
 ARTUR AI (auditoría - filtros de contenido)
-↓
+  ↓
 VISION MODE 1B (con controles: pause, like, comment)
-↓
+  ↓
 BROTV (visualización en SmartTV)
-↓
+  ↓
 USER (alta interacción: pause, share, save)
 
 **Características:**
@@ -622,38 +620,38 @@ USER (alta interacción: pause, share, save)
 
 **Flow for Service Search:**
 USER (en la calle): "BROHOME, busca aceite de coco cerca"
-↓
+  ↓
 BROHOME AI → BROCAT Commerce
-↓
+  ↓
 BROCAT queries RESPONSIVE FINGERS (radio de 1-5km)
-↓
+  ↓
 Los negocios responden con datos (stock, precio, ubicación)
-↓
+  ↓
 ARTUR AI (verifica la validez de la respuesta)
-↓
+  ↓
 VISION MODE 2 (muestra Profile Cards en 3D map)
-↓
+  ↓
 USER selecciona negocio → "Reserve"
-↓
+  ↓
 BROCOM (digital escrow: mantiene el pago 24h)
-↓
+  ↓ 
 USER recoge producto → Confirmation
-↓
+  ↓
 BROCOM libera el pago al negocio
 
 **Flow for User Livestream:**
 USER 2 activa **stream** con **Halo-BroPhone**
-↓
+  ↓
 Señal directa a BROCAT Stream (no pasa por BROMAC)
-↓
+  ↓
 ARTUR AI (audita contenido en tiempo real)
-↓
+  ↓
 VISION MODE 2 (**Profile Card LIVE** - rojo)
-↓
+  ↓
 USER 1 descubre stream → "Zoom In"
-↓
+  ↓
 BROTV (reproduce stream en pantalla completa)
-↓
+  ↓
 USER 1 puede: comment, donate QUERY, report
 
 
@@ -674,18 +672,18 @@ USER 1 puede: comment, donate QUERY, report
 
 **Flow:**
 USER (caminando): "BROHOME, guíame a la farmacia más cercana"
-↓
+  ↓
 BROHOME AI → BROCAT Health
-↓
+  ↓
 BROCAT queries RESPONSIVE FINGERS (farmacias)
-↓
+  ↓
 ARTUR AI (verifica las respuestas)
-↓
+  ↓
 VISION MODE 3 (**backend** - sin display)
-↓
+  ↓
 BROHOME responde por voz en Tiara-BroCam:
 "Farmacia a 300m. Gira a la derecha en 50m"
-↓
+  ↓
 Navegación GPS por audio (sin mirar la pantalla)
 
 **Características:**
@@ -742,17 +740,25 @@ Opcional: BROHOME guarda metadatos en **ISU USER MEMORY**
 [Escena: Patrick, 28, turista en Barcelona, frente a la Sagrada Familia]
 
 **BROHOME AI:** Patrick, ¿estás libre?
+
 **Patrick:** Sí, dime.
+
 **BROHOME AI:** Hay una solicitud de imagen. ¿Quieres ganar 5 Euros?
+
 **Patrick:** ¿Una solicitud? ¡Sí! ¿Dónde tengo que ir?
+
 **BROHOME AI:** Si estás frente a la Sagrada Familia...
+
 **Patrick:** Sí, Sagrada Familia, estoy justo delante.
+
 **BROHOME AI:** Bien, he activado la Cam. Simplemente baja el **hinge** para que esté frontal y apunta.
 
 [Patrick baja su **Tiara-BroCam** con el **adjustable hinge**. El LED verde se enciende. La cámara enfoca la fachada]
 
 **BROHOME AI:** Eso es. No te muevas. ¡CLICK!
+
 **Patrick:** (sonriendo) "Vincent"... ¿Estamos contentos?
+
 **BROHOME AI:** ¡Estamos contentos! Patrick, ya tienes los 5 Euros en tu hucha **BROCOM**.
 
 [Detrás de Escena]
