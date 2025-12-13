@@ -39,7 +39,7 @@ BROTHERS AI Version 9.0 introduces significant hardware and connectivity improve
 A critical safety consideration is addressed: these hands-free, voice-activated devices significantly reduce accidents caused by smartphone screen distraction, both for pedestrians and drivers.
 
  
-{{< figure src="/images/rgartnerPhoto.png" alt="Foto de Rgartner" title="Rgartner" >}}
+{{< figure src="/archivo-editorial-site/images/rgartnerPhoto.png" alt="Foto de Rgartner" title="Rgartner" >}}
 
 
 ---
@@ -48,7 +48,7 @@ A critical safety consideration is addressed: these hands-free, voice-activated 
 
 ### 1. HALO-BROPHONE
 
-{{< figure src="/images/HaloBROCAM2.png" alt="Halo BROCAM" title="Halo BROCAM" >}}
+{{< figure src="/archivo-editorial-site/images/HaloBROCAM2.png" alt="Halo BROCAM" title="Halo BROCAM" >}}
 
 **Description:**  
 A portable multifunctional device that evolves from the medallion concept. It combines communication, content capture, and interactive display in an elegant, compact format.
@@ -61,7 +61,7 @@ A portable multifunctional device that evolves from the medallion concept. It co
 - **Portability:** Wearable (with chain/cord) or pocket-sized
 - **Battery:** 6-8h autonomy
 
-{{< figure src="/images/HaloBROCAM.png" alt="Halo BROCAM" title="Halo BROCAM" >}}
+{{< figure src="/archivo-editorial-site/images/HaloBROCAM.png" alt="Halo BROCAM" title="Halo BROCAM" >}}
 
 **Key Functionalities:**
 - ✅ **Professional selfies** with controllable LED lighting
@@ -77,14 +77,14 @@ A portable multifunctional device that evolves from the medallion concept. It co
 - Reading BROHOME responses in noisy environments
 - Remote control of ecosystem functions
 
-{{< figure src="/images/HaloPhoneMaquillaje.png" alt="Halo Phone Maquillaje" title="Halo Phone Mirror" >}}
+{{< figure src="/archivo-editorial-site/images/HaloPhoneMaquillaje.png" alt="Halo Phone Maquillaje" title="Halo Phone Mirror" >}}
 
 ---
 
 ### 2. TIARA-BROCAM (REDESIGNED - ALUMINUM BAND)
 
 
-{{< figure src="/images/RGartnerConcept.png" alt="Concepto RGartner" title="Concepto RGartner" >}}
+{{< figure src="/archivo-editorial-site/images/RGartnerConcept.png" alt="Concepto RGartner" title="Concepto RGartner" >}}
 
 **Concept Evolution:**  
 The Tiara-BroCam is redesigned with a more discreet, contemporary **aluminum band**, moving away from the "costume accessory" aesthetic toward a wearable tech device suitable for public use.
@@ -124,7 +124,7 @@ The Tiara-BroCam is redesigned with a more discreet, contemporary **aluminum ban
 
 ### 3. SAFETY CONSIDERATION: ACCIDENT PREVENTION
 
-{{< figure src="/images/SG02.png" alt="City tour" title="City tour" >}}
+{{< figure src="/archivo-editorial-site/images/SG02.png" alt="City tour" title="City tour" >}}
 
 **Critical Advantage Over Smartphones:**
 
@@ -228,7 +228,7 @@ USER (high interaction: pause, share, save)
 
 **Finger Type:** Responsive + Responsive Streamer
 
-{{< figure src="/images/perfumeria1.png" alt="coconut " title="coconut" >}}
+{{< figure src="/archivo-editorial-site/images/perfumeria1.png" alt="coconut " title="coconut" >}}
 
 **Flow for Service Search:**
 ```
@@ -284,7 +284,7 @@ USER 1 can: comment, donate QUERY, report
 
 #### **VISION MODE 3: BACKEND (Invisible Mode)**
 
-{{< figure src="/images/perfumeria2.png" alt="Pharmacy" title="Pharmacy" >}}
+{{< figure src="/archivo-editorial-site/images/perfumeria2.png" alt="Pharmacy" title="Pharmacy" >}}
 
 
 **Purpose:** Street assistance without needing to look at a screen.
@@ -362,7 +362,7 @@ Optional: BROHOME saves metadata in ISU USER MEMORY
 ### **BroFlow Episode #001: "The Golden Shot"**
 #### *Category: Gig Economy - On-Demand Photography*
 
-{{< figure src="/images/SG01.png" alt="City tour" title="City tour" >}}
+{{< figure src="/archivo-editorial-site/images/SG01.png" alt="City tour" title="City tour" >}}
 
 ---
 
@@ -450,7 +450,7 @@ BROTHERS AI Version 9.0 introduce mejoras significativas de hardware y conectivi
 Se aborda una consideración crítica de seguridad: estos dispositivos manos libres y activados por voz reducen significativamente los accidentes causados por la distracción de la pantalla del smartphone, tanto para peatones como para conductores.
 
 
-{{< figure src="/images/rgartnerPhoto.png" alt="Foto de Rgartner" title="Rgartner" >}}
+{{< figure src="/archivo-editorial-site/images/rgartnerPhoto.png" alt="Foto de Rgartner" title="Rgartner" >}}
 
 **I. NUEVOS DISPOSITIVOS BROCAM**
 
@@ -471,7 +471,7 @@ Un dispositivo portátil multifuncional que evoluciona del concepto de medallón
 *   **Portabilidad:** Llevable (con cadena/cordón) o de bolsillo
 *   **Batería:** 6-8h de autonomía
 
-{{< figure src="/images/HaloBROCAM.png" alt="Halo BROCAM" title="Halo BROCAM" >}}
+{{< figure src="/archivo-editorial-site/images/HaloBROCAM.png" alt="Halo BROCAM" title="Halo BROCAM" >}}
 
 
 **Funcionalidades Clave:**
@@ -490,11 +490,11 @@ Un dispositivo portátil multifuncional que evoluciona del concepto de medallón
 *   Lectura de respuestas de **BROHOME** en entornos ruidosos
 *   Control remoto de funciones del ecosistema
 
-{{< figure src="/images/HaloPhoneMaquillaje.png" alt="Halo Phone Maquillaje" title="Halo Phone Mirror" >}}
+{{< figure src="/archivo-editorial-site/images/HaloPhoneMaquillaje.png" alt="Halo Phone Maquillaje" title="Halo Phone Mirror" >}}
 
 **2. TIARA-BROCAM (REDISGNADO - BANDA DE ALUMINIO)**
 
-{{< figure src="/images/RGartnerConcept.png" alt="Concepto RGartner" title="Concepto RGartner" >}}
+{{< figure src="/archivo-editorial-site/images/RGartnerConcept.png" alt="Concepto RGartner" title="Concepto RGartner" >}}
 
 **Evolución del Concepto:**
 La **Tiara-BroCam** es rediseñada con una banda de aluminio más discreta y contemporánea, alejándose de la estética de "accesorio de disfraz" hacia un dispositivo de tecnología **wearable** apto para uso público.
@@ -526,7 +526,7 @@ La **Tiara-BroCam** es rediseñada con una banda de aluminio más discreta y con
 *   Comunicación por voz con **BROHOME** a través de auriculares
 *   Documentación ciudadana de incidentes públicos
 
-{{< figure src="/images/SG03.png" alt="City tour" title="City tour" >}}
+{{< figure src="/archivo-editorial-site/images/SG03.png" alt="City tour" title="City tour" >}}
 
 **Casos de Uso Principales:**
 
@@ -537,7 +537,7 @@ La **Tiara-BroCam** es rediseñada con una banda de aluminio más discreta y con
 
 **3. CONSIDERACIÓN DE SEGURIDAD: PREVENCIÓN DE ACCIDENTES**
 
-{{< figure src="/images/SG02.png" alt="City tour" title="City tour" >}}
+{{< figure src="/archivo-editorial-site/images/SG02.png" alt="City tour" title="City tour" >}}
 
 **Ventaja Crítica sobre los Smartphones:**
 
@@ -647,7 +647,7 @@ USER (alta interacción: pause, share, save)
 
 **Flow for Service Search:**
 
-{{< figure src="/images/perfumeria1.png" alt="Perfumeria" title="Perfumería-Aceite de Coco" >}}
+{{< figure src="/archivo-editorial-site/images/perfumeria1.png" alt="Perfumeria" title="Perfumería-Aceite de Coco" >}}
 
 **Flow:**
 ```
@@ -707,7 +707,7 @@ USER 1 puede: comment, donate QUERY, report
 
 **Propósito:** Asistencia en la calle sin necesidad de mirar una pantalla.
 
-{{< figure src="/images/perfumeria2.png" alt="Farmacia" title="Farmacia" >}}
+{{< figure src="/archivo-editorial-site/images/perfumeria2.png" alt="Farmacia" title="Farmacia" >}}
 
 **Flow:**
 ```
@@ -779,7 +779,7 @@ Opcional: BROHOME guarda metadatos en **ISU USER MEMORY**
 
 **III. BROFLOW: HISTORIAS DEL ECOSISTEMA**
 
-{{< figure src="/images/SG01.png" alt="City tour" title="City tour" >}}
+{{< figure src="/archivo-editorial-site/images/SG01.png" alt="City tour" title="City tour" >}}
 
 **BroFlow Episode #001: "The Golden Shot"**
 **Categoría: Gig Economy - Fotografía Bajo Demanda**
