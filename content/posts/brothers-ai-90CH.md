@@ -76,6 +76,10 @@ tags = ["federated-learning", "artificial-intelligence", "distributed-systems", 
 *   在嘈杂环境中阅读 **BROHOME** 的回复
 *   远程控制生态系统功能
 
+{{< figure src="/archivo-editorial-site/images/HaloPhoneMaquillaje.png" alt="Halo Phone Maquillaje" title="Halo Phone Mirror" >}}
+
+---
+
 **2. TIARA-BROCAM (重新设计 - 铝带) (REDESIGNED - ALUMINUM BAND)**
 
 {{< figure src="/archivo-editorial-site/images/RGartnerConcept.png" alt="Concepto RGartner" title="Concepto RGartner 图片" >}}
