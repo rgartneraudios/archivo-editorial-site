@@ -425,6 +425,7 @@ This version consolidates BROTHERS AI as a cohesive, fraternal ecosystem where t
 **Published on Zenodo**  
 **Previous Version DOI:** 10.5281/zenodo.17913103  
 **Author:** RGartner  
+**Images from Copilot AI and Nano Banana AI 
 **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)  
 **Repository:** https://zenodo.org
 
@@ -837,6 +838,7 @@ Esta versión consolida **BROTHERS AI** como un ecosistema cohesivo y fraternal 
 **Publicado en Zenodo**
 **Previous Version DOI:** 10.5281/zenodo.17913103
 **Author:** RGartner
+**Images from Copilot AI and Nano Banana AI 
 **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 **Repository:** https://zenodo.org
 

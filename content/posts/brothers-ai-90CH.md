@@ -411,6 +411,7 @@ GLASS BOX → BROHOME AI
 **Published on Zenodo**
 **Previous Version DOI:** 10.5281/zenodo.17913103
 **Author:** RGartner
+**Images from Copilot AI and Nano Banana AI 
 **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 **Repository:** https://zenodo.org
 
