@@ -37,7 +37,7 @@ tags = ["federated-learning", "artificial-intelligence", "distributed-systems", 
 
 其中解决了一个关键的安全考虑：这些免提、声控设备显著减少了由智能手机屏幕分心导致的事故，无论是对行人和司机而言。
 
-{{< figure src="/images/rgartnerPhoto.png" alt="Foto de Rgartner" title="Rgartner" >}}
+{{< figure src="/archivo-editorial-site/images/rgartnerPhoto.png" alt="Foto de Rgartner" title="Rgartner" >}}
 
 
 **I. 新型 BROCAM 设备 (NEW BROCAM DEVICES)**
@@ -58,7 +58,7 @@ tags = ["federated-learning", "artificial-intelligence", "distributed-systems", 
 *   **Portability:** 可穿戴（带链/绳）或口袋大小
 *   **Battery:** 6-8小时续航
 
-{{< figure src="/images/HaloBROCAM.png" alt="Halo BROCAM" title="Halo BROCAM 图片" >}}
+{{< figure src="/archivo-editorial-site/images/HaloBROCAM.png" alt="Halo BROCAM" title="Halo BROCAM 图片" >}}
 
 **核心功能 (Key Functionalities):**
 
@@ -78,7 +78,7 @@ tags = ["federated-learning", "artificial-intelligence", "distributed-systems", 
 
 **2. TIARA-BROCAM (重新设计 - 铝带) (REDESIGNED - ALUMINUM BAND)**
 
-{{< figure src="/images/RGartnerConcept.png" alt="Concepto RGartner" title="Concepto RGartner 图片" >}}
+{{< figure src="/archivo-editorial-site/images/RGartnerConcept.png" alt="Concepto RGartner" title="Concepto RGartner 图片" >}}
 
 **概念演进 (Concept Evolution):**
 **Tiara-BroCam** 采用更低调、更具现代感的铝带重新设计，摆脱了“服装配饰”的美学，转向适合公众使用的可穿戴技术设备。
@@ -110,7 +110,7 @@ tags = ["federated-learning", "artificial-intelligence", "distributed-systems", 
 *   通过耳机与 **BROHOME** 进行语音通信
 *   公民对公共事件的记录
 
-{{< figure src="/images/SG03.png" alt="City tour" title="City tour" >}}
+{{< figure src="/archivo-editorial-site/images/SG03.png" alt="City tour" title="City tour" >}}
 
 **主要用例 (Primary Use Cases):**
 
@@ -120,7 +120,7 @@ tags = ["federated-learning", "artificial-intelligence", "distributed-systems", 
 
 **3. 安全考虑：事故预防 (SAFETY CONSIDERATION: ACCIDENT PREVENTION)**
 
-{{< figure src="/images/SG02.png" alt="City tour" title="City tour" >}}
+{{< figure src="/archivo-editorial-site/images/SG02.png" alt="City tour" title="City tour" >}}
 
 **相对于智能手机的关键优势 (Critical Advantage Over Smartphones):**
 
@@ -223,7 +223,7 @@ USER (高互动：pause, share, save)
 
 **Finger Type:** Responsive + Responsive Streamer
 
-{{< figure src="/images/perfumeria1.png" alt="coconut " title="coconut" >}}
+{{< figure src="/archivo-editorial-site/images/perfumeria1.png" alt="coconut " title="coconut" >}}
 
 **服务搜索流程 (Flow for Service Search):**
 **Flow:**
@@ -280,7 +280,7 @@ USER 1 可以：comment, donate QUERY, report
 
 **VISION MODE 3: BACKEND (Invisible Mode)**
 
-{{< figure src="/images/perfumeria2.png" alt="Pharmacy" title="Pharmacy" >}}
+{{< figure src="/archivo-editorial-site/images/perfumeria2.png" alt="Pharmacy" title="Pharmacy" >}}
 
 **目的 (Purpose):** 在街上提供协助，无需查看屏幕。
 
@@ -355,7 +355,7 @@ GLASS BOX → BROHOME AI
 **BroFlow Episode #001: "The Golden Shot"**
 **类别 (Category): Gig Economy - 按需摄影 (On-Demand Photography)**
 
-{{< figure src="/images/SG01.png" alt="City tour" title="City tour" >}}
+{{< figure src="/archivo-editorial-site/images/SG01.png" alt="City tour" title="City tour" >}}
 
 ---
 

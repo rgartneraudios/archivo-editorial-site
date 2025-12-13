@@ -113,7 +113,7 @@ The Tiara-BroCam is redesigned with a more discreet, contemporary **aluminum ban
 - ✅ **Voice communication** with BROHOME via headphones
 - ✅ **Citizen documentation** of public incidents
 
-{{< figure src="/images/SG03.png" alt="City tour" title="City tour" >}}
+{{< figure src="/archivo-editorial-site/images/SG03.png" alt="City tour" title="City tour" >}}
 
 **Primary Use Cases:**
 - User explores a city and shares their vision in real-time
@@ -456,7 +456,7 @@ Se aborda una consideración crítica de seguridad: estos dispositivos manos lib
 
 **1. HALO-BROPHONE**
 
-{{< figure src="/images/HaloBROCAM2.png" alt="Halo BROCAM" title="Halo BROCAM" >}}
+{{< figure src="/archivo-editorial-site/images/HaloBROCAM2.png" alt="Halo BROCAM" title="Halo BROCAM" >}}
 
 **Descripción:**
 Un dispositivo portátil multifuncional que evoluciona del concepto de medallón. Combina comunicación, captura de contenido y pantalla interactiva en un formato elegante y compacto.
