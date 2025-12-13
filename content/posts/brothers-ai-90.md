@@ -431,7 +431,7 @@ This version consolidates BROTHERS AI as a cohesive, fraternal ecosystem where t
 
 ***
 
-**Español
+**Español**
 
 **BROTHERS AI - VERSION 9.0**
 
@@ -706,7 +706,7 @@ USER 1 puede: comment, donate QUERY, report
 
 **Propósito:** Asistencia en la calle sin necesidad de mirar una pantalla.
 
-{{< figure src="/images/perfumeria2png" alt="Farmacia" title="Farmacia" >}}
+{{< figure src="/images/perfumeria2.png" alt="Farmacia" title="Farmacia" >}}
 
 **Flow:**
 ```
