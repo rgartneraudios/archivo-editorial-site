@@ -77,6 +77,8 @@ A portable multifunctional device that evolves from the medallion concept. It co
 - Reading BROHOME responses in noisy environments
 - Remote control of ecosystem functions
 
+{{< figure src="/images/HaloPhoneMaquillaje.png" alt="Halo Phone Maquillaje" title="Halo Phone Mirror" >}}
+
 ---
 
 ### 2. TIARA-BROCAM (REDESIGNED - ALUMINUM BAND)
@@ -111,6 +113,8 @@ The Tiara-BroCam is redesigned with a more discreet, contemporary **aluminum ban
 - ✅ **Voice communication** with BROHOME via headphones
 - ✅ **Citizen documentation** of public incidents
 
+{{< figure src="/images/SG3.png" alt="City tour" title="City tour" >}}
+
 **Primary Use Cases:**
 - User explores a city and shares their vision in real-time
 - Visual queries about objects, places, people (with consent)
@@ -119,6 +123,8 @@ The Tiara-BroCam is redesigned with a more discreet, contemporary **aluminum ban
 ---
 
 ### 3. SAFETY CONSIDERATION: ACCIDENT PREVENTION
+
+{{< figure src="/images/SG2.png" alt="City tour" title="City tour" >}}
 
 **Critical Advantage Over Smartphones:**
 
@@ -222,6 +228,8 @@ USER (high interaction: pause, share, save)
 
 **Finger Type:** Responsive + Responsive Streamer
 
+{{< figure src="/images/perfumeria1.png" alt="coconut " title="coconut" >}}
+
 **Flow for Service Search:**
 ```
 USER (on the street): "BROHOME, search for coconut oil nearby"
@@ -275,6 +283,9 @@ USER 1 can: comment, donate QUERY, report
 ---
 
 #### **VISION MODE 3: BACKEND (Invisible Mode)**
+
+{{< figure src="/images/perfumeria2.png" alt="Pharmacy" title="Pharmacy" >}}
+
 
 **Purpose:** Street assistance without needing to look at a screen.
 
@@ -350,6 +361,8 @@ Optional: BROHOME saves metadata in ISU USER MEMORY
 
 ### **BroFlow Episode #001: "The Golden Shot"**
 #### *Category: Gig Economy - On-Demand Photography*
+
+{{< figure src="/images/SG1.png" alt="City tour" title="City tour" >}}
 
 ---
 
@@ -476,6 +489,8 @@ Un dispositivo portátil multifuncional que evoluciona del concepto de medallón
 *   Lectura de respuestas de **BROHOME** en entornos ruidosos
 *   Control remoto de funciones del ecosistema
 
+{{< figure src="/images/HaloPhoneMaquillaje.png" alt="Halo Phone Maquillaje" title="Halo Phone Mirror" >}}
+
 **2. TIARA-BROCAM (REDISGNADO - BANDA DE ALUMINIO)**
 
 {{< figure src="/images/RGartnerConcept.png" alt="Concepto RGartner" title="Concepto RGartner" >}}
@@ -510,6 +525,8 @@ La **Tiara-BroCam** es rediseñada con una banda de aluminio más discreta y con
 *   Comunicación por voz con **BROHOME** a través de auriculares
 *   Documentación ciudadana de incidentes públicos
 
+{{< figure src="/images/SG3.png" alt="City tour" title="City tour" >}}
+
 **Casos de Uso Principales:**
 
 *   El usuario explora una ciudad y comparte su visión en tiempo real
@@ -518,6 +535,8 @@ La **Tiara-BroCam** es rediseñada con una banda de aluminio más discreta y con
 
 
 **3. CONSIDERACIÓN DE SEGURIDAD: PREVENCIÓN DE ACCIDENTES**
+
+{{< figure src="/images/SG2.png" alt="City tour" title="City tour" >}}
 
 **Ventaja Crítica sobre los Smartphones:**
 
@@ -626,9 +645,11 @@ USER (alta interacción: pause, share, save)
 **Finger Type:** Responsive + Responsive Streamer
 
 **Flow for Service Search:**
+
+{{< figure src="/images/perfumeria1.png" alt="Perfumeria" title="Perfumería-Aceite de Coco" >}}
+
 **Flow:**
 ```
-
 USER (en la calle): "BROHOME, busca aceite de coco cerca"
   ↓
 BROHOME AI → BROCAT Commerce
@@ -687,6 +708,8 @@ USER 1 puede: comment, donate QUERY, report
 
 **Propósito:** Asistencia en la calle sin necesidad de mirar una pantalla.
 
+{{< figure src="/images/perfumeria2png" alt="Farmacia" title="Farmacia" >}}
+
 **Flow:**
 ```
 USER (caminando): "BROHOME, guíame a la farmacia más cercana"
@@ -719,6 +742,8 @@ Navegación GPS por audio (sin mirar la pantalla)
 **Propósito:** Llamada de video/audio privada entre USER y BROHOME (**Meet/Zoom-like**).
 
 **Flow:**
+**Flow:**
+```
 USER (en la calle): "BROHOME, necesito hablar contigo en privado"
 ↓
 Tiara-BroCam o Halo-BroPhone activa **BROVISION LINK**
@@ -732,6 +757,7 @@ GLASS BOX → BROHOME AI
 Conversación privada (audio/video)
 ↓
 Opcional: BROHOME guarda metadatos en **ISU USER MEMORY**
+```
 
 **Características:**
 
@@ -754,11 +780,15 @@ Opcional: BROHOME guarda metadatos en **ISU USER MEMORY**
 
 **III. BROFLOW: HISTORIAS DEL ECOSISTEMA**
 
+{{< figure src="/images/SG1.png" alt="City tour" title="City tour" >}}
+
 **BroFlow Episode #001: "The Golden Shot"**
 **Categoría: Gig Economy - Fotografía Bajo Demanda**
 
 [Escena: Patrick, 28, turista en Barcelona, frente a la Sagrada Familia]
 
+**Flow:**
+```
 **BROHOME AI:** Patrick, ¿estás libre?
 
 **Patrick:** Sí, dime.
@@ -780,7 +810,7 @@ Opcional: BROHOME guarda metadatos en **ISU USER MEMORY**
 **Patrick:** (sonriendo) "Vincent"... ¿Estamos contentos?
 
 **BROHOME AI:** ¡Estamos contentos! Patrick, ya tienes los 5 Euros en tu hucha **BROCOM**.
-
+```
 [Detrás de Escena]
 
 Un arquitecto en Tokio necesitaba una fotografía actual de la fachada de la Sagrada Familia para un proyecto de restauración. A través de **BROCOM**, publicó una solicitud geolocalizada con un pago de 5 Euros.
