@@ -431,7 +431,7 @@ This version consolidates BROTHERS AI as a cohesive, fraternal ecosystem where t
 
 ***
 
-***Español***
+# Español
 
 **BROTHERS AI - VERSION 9.0**
 
