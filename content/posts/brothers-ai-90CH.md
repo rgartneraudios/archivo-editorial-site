@@ -9,11 +9,11 @@ tags = ["federated-learning", "artificial-intelligence", "distributed-systems", 
 
 ---
 
-{{< youtube lBC_tMyhBJI >}}
+{{< youtube Mxc64PHTt7Y >}}
 
 ---
 
-{{< youtube Pu-N95iXSw8 >}}
+{{< youtube lV8CKbsRvH8 >}}
 
 +++
 
