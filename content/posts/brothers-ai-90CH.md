@@ -110,6 +110,8 @@ tags = ["federated-learning", "artificial-intelligence", "distributed-systems", 
 *   通过耳机与 **BROHOME** 进行语音通信
 *   公民对公共事件的记录
 
+{{< figure src="/images/SG03.png" alt="City tour" title="City tour" >}}
+
 **主要用例 (Primary Use Cases):**
 
 *   用户探索城市并实时分享他们的视野
@@ -117,6 +119,8 @@ tags = ["federated-learning", "artificial-intelligence", "distributed-systems", 
 *   在 **backend mode** 中由 **BROHOME** 辅助导航
 
 **3. 安全考虑：事故预防 (SAFETY CONSIDERATION: ACCIDENT PREVENTION)**
+
+{{< figure src="/images/SG02.png" alt="City tour" title="City tour" >}}
 
 **相对于智能手机的关键优势 (Critical Advantage Over Smartphones):**
 
@@ -219,6 +223,8 @@ USER (高互动：pause, share, save)
 
 **Finger Type:** Responsive + Responsive Streamer
 
+{{< figure src="/images/perfumeria1.png" alt="coconut " title="coconut" >}}
+
 **服务搜索流程 (Flow for Service Search):**
 **Flow:**
 ```
@@ -273,6 +279,8 @@ USER 1 可以：comment, donate QUERY, report
 *   **Monetization:** **Mentions Ads**，**stream** 捐赠，**BROCOM escrow**
 
 **VISION MODE 3: BACKEND (Invisible Mode)**
+
+{{< figure src="/images/perfumeria2.png" alt="Pharmacy" title="Pharmacy" >}}
 
 **目的 (Purpose):** 在街上提供协助，无需查看屏幕。
 
@@ -342,14 +350,14 @@ GLASS BOX → BROHOME AI
 | **Responsive** | On-demand (query) (按需 (查询)) | Local services (本地服务) | Pharmacies, restaurants, stores |
 | **Responsive Streamer** | On-demand (livestream) (按需 (直播)) | Users streaming (用户直播) | Vlogs, live events |
 
-==Page 11 OCR 结束==
-
-==Page 12 OCR 开始==
-
 **III. BROFLOW: 生态系统故事 (ECOSYSTEM STORIES)**
 
 **BroFlow Episode #001: "The Golden Shot"**
 **类别 (Category): Gig Economy - 按需摄影 (On-Demand Photography)**
+
+{{< figure src="/images/SG01.png" alt="City tour" title="City tour" >}}
+
+---
 
 [场景: Patrick, 28岁, 巴塞罗那游客, 站在圣家族大教堂前]
 
@@ -374,7 +382,7 @@ GLASS BOX → BROHOME AI
 **Patrick:** (微笑着) “Vincent”... 我们高兴吗？
 
 **BROHOME AI:** 我们很高兴！Patrick，你的 **BROCOM piggy bank** 里已经有 5 欧元了。
-
+---
 
 [幕后花絮 (Behind the Scenes)]
 
