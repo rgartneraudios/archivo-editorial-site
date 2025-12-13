@@ -4,6 +4,10 @@ title = 'RGartner Audios Podcast Editorial'
 theme = 'PaperMod'
 canonifyURLs = true
 
+[pagination]
+  pagerSize = 10
+  path = "page"
+  
 defaultContentLanguage = 'es'
 
 [languages]
