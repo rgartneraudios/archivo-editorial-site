@@ -113,7 +113,7 @@ The Tiara-BroCam is redesigned with a more discreet, contemporary **aluminum ban
 - ✅ **Voice communication** with BROHOME via headphones
 - ✅ **Citizen documentation** of public incidents
 
-{{< figure src="/images/SG3.png" alt="City tour" title="City tour" >}}
+{{< figure src="/images/SG03png" alt="City tour" title="City tour" >}}
 
 **Primary Use Cases:**
 - User explores a city and shares their vision in real-time
@@ -124,7 +124,7 @@ The Tiara-BroCam is redesigned with a more discreet, contemporary **aluminum ban
 
 ### 3. SAFETY CONSIDERATION: ACCIDENT PREVENTION
 
-{{< figure src="/images/SG2.png" alt="City tour" title="City tour" >}}
+{{< figure src="/images/SG02png" alt="City tour" title="City tour" >}}
 
 **Critical Advantage Over Smartphones:**
 
@@ -362,7 +362,7 @@ Optional: BROHOME saves metadata in ISU USER MEMORY
 ### **BroFlow Episode #001: "The Golden Shot"**
 #### *Category: Gig Economy - On-Demand Photography*
 
-{{< figure src="/images/SG1.png" alt="City tour" title="City tour" >}}
+{{< figure src="/images/SG01.png" alt="City tour" title="City tour" >}}
 
 ---
 
@@ -431,7 +431,7 @@ This version consolidates BROTHERS AI as a cohesive, fraternal ecosystem where t
 
 ***
 
-*Español
+***Español
 
 **BROTHERS AI - VERSION 9.0**
 
@@ -525,7 +525,7 @@ La **Tiara-BroCam** es rediseñada con una banda de aluminio más discreta y con
 *   Comunicación por voz con **BROHOME** a través de auriculares
 *   Documentación ciudadana de incidentes públicos
 
-{{< figure src="/images/SG3.png" alt="City tour" title="City tour" >}}
+{{< figure src="/images/SG03png" alt="City tour" title="City tour" >}}
 
 **Casos de Uso Principales:**
 
@@ -536,7 +536,7 @@ La **Tiara-BroCam** es rediseñada con una banda de aluminio más discreta y con
 
 **3. CONSIDERACIÓN DE SEGURIDAD: PREVENCIÓN DE ACCIDENTES**
 
-{{< figure src="/images/SG2.png" alt="City tour" title="City tour" >}}
+{{< figure src="/images/SG02png" alt="City tour" title="City tour" >}}
 
 **Ventaja Crítica sobre los Smartphones:**
 
@@ -691,8 +691,6 @@ USER 1 puede: comment, donate QUERY, report
 
 ```
 
-
-
 **Características:**
 
 *   Navegación libre a través de ciudades de todo el mundo (3D)
@@ -780,7 +778,7 @@ Opcional: BROHOME guarda metadatos en **ISU USER MEMORY**
 
 **III. BROFLOW: HISTORIAS DEL ECOSISTEMA**
 
-{{< figure src="/images/SG1.png" alt="City tour" title="City tour" >}}
+{{< figure src="/images/SG01.png" alt="City tour" title="City tour" >}}
 
 **BroFlow Episode #001: "The Golden Shot"**
 **Categoría: Gig Economy - Fotografía Bajo Demanda**
