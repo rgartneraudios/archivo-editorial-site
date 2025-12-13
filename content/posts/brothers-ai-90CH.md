@@ -44,7 +44,7 @@ tags = ["federated-learning", "artificial-intelligence", "distributed-systems", 
 
 **1. HALO-BROPHONE**
 
-{{< figure src="/images/HaloBROCAM2.png" alt="Halo BROCAM" title="Halo BROCAM 图片" >}}
+{{< figure src="/archivo-editorial-site/images/HaloBROCAM2.png" alt="Halo BROCAM" title="Halo BROCAM 图片" >}}
 
 **描述 (Description):**
 一款便携式多功能设备，由徽章概念演变而来。它以优雅、紧凑的格式结合了通信、内容捕获和交互式显示。
