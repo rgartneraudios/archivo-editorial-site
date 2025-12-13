@@ -113,7 +113,7 @@ The Tiara-BroCam is redesigned with a more discreet, contemporary **aluminum ban
 - ✅ **Voice communication** with BROHOME via headphones
 - ✅ **Citizen documentation** of public incidents
 
-{{< figure src="/images/SG03png" alt="City tour" title="City tour" >}}
+{{< figure src="/images/SG03.png" alt="City tour" title="City tour" >}}
 
 **Primary Use Cases:**
 - User explores a city and shares their vision in real-time
@@ -124,7 +124,7 @@ The Tiara-BroCam is redesigned with a more discreet, contemporary **aluminum ban
 
 ### 3. SAFETY CONSIDERATION: ACCIDENT PREVENTION
 
-{{< figure src="/images/SG02png" alt="City tour" title="City tour" >}}
+{{< figure src="/images/SG02.png" alt="City tour" title="City tour" >}}
 
 **Critical Advantage Over Smartphones:**
 
@@ -431,7 +431,7 @@ This version consolidates BROTHERS AI as a cohesive, fraternal ecosystem where t
 
 ***
 
-***Español
+**Español
 
 **BROTHERS AI - VERSION 9.0**
 
@@ -525,7 +525,7 @@ La **Tiara-BroCam** es rediseñada con una banda de aluminio más discreta y con
 *   Comunicación por voz con **BROHOME** a través de auriculares
 *   Documentación ciudadana de incidentes públicos
 
-{{< figure src="/images/SG03png" alt="City tour" title="City tour" >}}
+{{< figure src="/images/SG03.png" alt="City tour" title="City tour" >}}
 
 **Casos de Uso Principales:**
 
@@ -536,7 +536,7 @@ La **Tiara-BroCam** es rediseñada con una banda de aluminio más discreta y con
 
 **3. CONSIDERACIÓN DE SEGURIDAD: PREVENCIÓN DE ACCIDENTES**
 
-{{< figure src="/images/SG02png" alt="City tour" title="City tour" >}}
+{{< figure src="/images/SG02.png" alt="City tour" title="City tour" >}}
 
 **Ventaja Crítica sobre los Smartphones:**
 
