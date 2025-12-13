@@ -433,7 +433,7 @@ This version consolidates BROTHERS AI as a cohesive, fraternal ecosystem where t
 
 # Español
 
-**BROTHERS AI - VERSION 9.0**
+## BROTHERS AI - VERSION 9.0
 
 **Autor:** RGartner
 **Fecha:** 12 de diciembre de 2025
